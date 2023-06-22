@@ -19,8 +19,7 @@ function add_faq_snippets($content)
         if ($faqStr != "") {
             $subText = substr($content, strpos($content, $faqStr));
         } else {
-            $subText = "";
-            echo "ERROR";
+            return $content;
         }
 
         $reQ = '/<h3.*<\/h3>/U';
@@ -42,7 +41,7 @@ function add_faq_snippets($content)
             ];
         }
 
-        if (count($faq)) {
+        if (count($faq) > 0) {
             $snippets = [
                 "@context" => "https://schema.org",
                 "@type" => "FAQPage",
