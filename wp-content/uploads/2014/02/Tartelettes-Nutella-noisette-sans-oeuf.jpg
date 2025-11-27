@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="ie8"><![endif]-->
+<!--[if IE 9]><html class="ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="fr-FR" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+<head><script type="text/javascript" src="/_static/js/bundle-playback.js?v=1WaXNDFE" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script type="text/javascript">
+  __wm.init("https://web.archive.org/web");
+  __wm.wombat("http://www.recette-delice.com/","20160413104544","https://web.archive.org/","web","/_static/",
+	      "1460544344");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=qtvMKcIJ" />
+<!-- End Wayback Rewrite JS Include -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="viewport" content="user-scalable=yes, width=device-width, initial-scale=1.0, maximum-scale=1">
+<title>Des Recettes de Cuisine proposées par des Passionnés</title>
+<!--[if lt IE 9]>
+	<script src="//www.recette-delice.com/wp-content/themes/voice/js/html5.js"></script>
+<![endif]-->
+ 
+<meta name="description" content="Blog culinaire proposant des recettes de cuisine publiées par des passionnés qui ont décidé de partager leurs recettes en rejoignant notre communauté."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="//web.archive.org/web/20160413104544/http://www.recette-delice.com/"/>
+<meta property="og:locale" content="fr_FR"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Des Recettes de Cuisine proposées par des Passionnés"/>
+<meta property="og:description" content="Blog culinaire proposant des recettes de cuisine publiées par des passionnés qui ont décidé de partager leurs recettes en rejoignant notre communauté."/>
+<meta property="og:url" content="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/"/>
+<meta property="og:site_name" content="Recettes &amp; Délices"/>
+<meta property="og:image" content="https://web.archive.org/web/20160413104544im_/http://recette-delice.com/wp-content/uploads/2015/03/recette-delice-fb.jpg"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:description" content="Blog culinaire proposant des recettes de cuisine publiées par des passionnés qui ont décidé de partager leurs recettes en rejoignant notre communauté."/>
+<meta name="twitter:title" content="Des Recettes de Cuisine proposées par des Passionnés"/>
+<meta name="twitter:site" content="@recettedelice"/>
+<meta name="twitter:image" content="https://web.archive.org/web/20160413104544im_/http://recette-delice.com/wp-content/uploads/2015/03/recette-delice-fb.jpg"/>
+<meta name="twitter:creator" content="@recettedelice"/>
+<script type="application/ld+json">{"@context":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/schema.org","@type":"WebSite","url":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/","name":"Recettes &amp; D\u00e9lices","potentialAction":{"@type":"SearchAction","target":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<meta name="google-site-verification" content="2qDiOs97pol3uo3pz1qubgn7FhyRbFmv57KbTDg1vHA"/>
+<meta name="p:domain_verify" content="a39b6e5b50bdfe3cb3fc13f6796bc12e"/>
+ 
+<link rel="alternate" type="application/rss+xml" title="Recettes &amp; Délices » Flux" href="//web.archive.org/web/20160413104544/http://www.recette-delice.com/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Recettes &amp; Délices » Flux des commentaires" href="//web.archive.org/web/20160413104544/http://www.recette-delice.com/comments/feed/"/>
+<link rel="alternate" type="application/rss+xml" title="Recettes &amp; Délices » Accueil Flux des commentaires" href="//web.archive.org/web/20160413104544/http://www.recette-delice.com/accueil/feed/"/>
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/web.archive.org\/web\/20160413104544\/https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.2"}};
+			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="contact-form-7-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="arevico_scsfbcss-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/featherlight/featherlight.min.css?ver=4.4.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="mks_shortcodes_fntawsm_css-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-flexible-shortcodes/css/font-awesome/css/font-awesome.min.css?ver=1.2.8" type="text/css" media="screen"/>
+<link rel="stylesheet" id="mks_shortcodes_simple_line_icons-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-flexible-shortcodes/css/simple-line/simple-line-icons.css?ver=1.2.8" type="text/css" media="screen"/>
+<link rel="stylesheet" id="mks_shortcodes_css-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-flexible-shortcodes/css/style.css?ver=1.2.8" type="text/css" media="screen"/>
+<link rel="stylesheet" id="usp_style-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/user-submitted-posts/resources/usp.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="wpfront-notification-bar-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/wpfront-notification-bar/css/wpfront-notification-bar.css?ver=1.7" type="text/css" media="all"/>
+<link rel="stylesheet" id="yasrcss-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/yet-another-stars-rating/css/yasr.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="jquery-ui-css" href="//web.archive.org/web/20160413104544cs_/http://code.jquery.com/ui/1.11.2/themes/smoothness/jquery-ui.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="dashicons-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-includes/css/dashicons.min.css?ver=4.4.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="yasrcsslightscheme-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/yet-another-stars-rating/css/yasr-table-light.css" type="text/css" media="all"/>
+<link rel="stylesheet" id="vce_font_0-css" href="//web.archive.org/web/20160413104544cs_/http://fonts.googleapis.com/css?family=Open+Sans%3A400&amp;subset=latin%2Clatin-ext&amp;ver=1.2.1" type="text/css" media="screen"/>
+<link rel="stylesheet" id="vce_font_1-css" href="//web.archive.org/web/20160413104544cs_/http://fonts.googleapis.com/css?family=Roboto+Slab%3A400&amp;subset=latin%2Clatin-ext&amp;ver=1.2.1" type="text/css" media="screen"/>
+<link rel="stylesheet" id="vce_style-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/themes/voice/style.css?ver=1.2.1" type="text/css" media="screen, print"/>
+<style id="vce_style-inline-css" type="text/css">body{background-color:#f0f0f0;}body,.mks_author_widget h3,.site-description,.meta-category a,textarea{font-family:'Open Sans';font-weight:400;}h1,h2,h3,h4,h5,h6,blockquote,.vce-post-link,.site-title,.site-title a,.main-box-title,.comment-reply-title,.entry-title a,.vce-single .entry-headline p,.vce-prev-next-link,.author-title,.mks_pullquote,.widget_rss ul li .rsswidget{font-family:'Roboto Slab';font-weight:400;}.main-navigation a,.sidr a{font-family:'Roboto Slab';font-weight:400;}.vce-single .entry-content,.vce-single .entry-headline,.vce-single .entry-footer{width:600px;}.vce-page .entry-content,.vce-page .entry-title-page{width:600px;}.vce-sid-none .vce-single .entry-content,.vce-sid-none .vce-single .entry-headline,.vce-sid-none .vce-single .entry-footer{width:600px;}.vce-sid-none .vce-page .entry-content,.vce-sid-none .vce-page .entry-title-page,.error404 .entry-content{width:600px;max-width:600px;}body,button,input,select,textarea{color:#444444;}h1,h2,h3,h4,h5,h6,.entry-title a,.prev-next-nav a{color:#232323;}a,.entry-title a:hover,.vce-prev-next-link:hover,.vce-author-links a:hover,.required,.error404 h4,.prev-next-nav a:hover{color:#cf4d35;}.vce-square,.vce-main-content .mejs-controls .mejs-time-rail .mejs-time-current,button,input[type="button"],input[type="reset"],input[type="submit"],.vce-button,.pagination-wapper a,#vce-pagination .next.page-numbers,#vce-pagination .prev.page-numbers,#vce-pagination .page-numbers,#vce-pagination .page-numbers.current,.vce-link-pages a,#vce-pagination a,.vce-load-more a,.vce-slider-pagination .owl-nav>div,.comment-reply-link:hover,.vce-featured-section a,.vce-lay-g .vce-featured-info .meta-category a,.vce-404-menu a,.vce-post.sticky .meta-image:before,#vce-pagination .page-numbers:hover{background-color:#cf4d35;}#vce-pagination .page-numbers{background:transparent;color:#cf4d35;border:1px solid #cf4d35;}#vce-pagination .page-numbers.current{border:1px solid #cf4d35;}.widget_categories .cat-item:before,.widget_categories .cat-item .count{background:#cf4d35;}.comment-reply-link{border:1px solid #cf4d35;}.entry-meta div,.entry-meta div a,.comment-metadata a,.meta-category span,.meta-author-wrapped,.wp-caption .wp-caption-text,.widget_rss .rss-date,.sidebar cite,.site-footer cite,.sidebar .vce-post-list .entry-meta div,.sidebar .vce-post-list .entry-meta div a,.sidebar .vce-post-list .fn,.sidebar .vce-post-list .fn a,.site-footer .vce-post-list .entry-meta div,.site-footer .vce-post-list .entry-meta div a,.site-footer .vce-post-list .fn,.site-footer .vce-post-list .fn a{color:#9b9b9b;}.main-box-title,.comment-reply-title,.main-box-head{background:#ffffff;color:#232323;}.sidebar .widget .widget-title a{color:#232323;}.main-box,.comment-respond,.prev-next-nav{background:#f9f9f9;}.vce-post,ul.comment-list>li.comment,.main-box-single,.ie8 .vce-single,#disqus_thread,.vce-author-card,.vce-author-card .vce-content-outside{background:#ffffff;}.mks_tabs.horizontal .mks_tab_nav_item.active{border-bottom:1px solid #ffffff;}.mks_tabs.horizontal .mks_tab_item,.mks_tabs.vertical .mks_tab_nav_item.active,.mks_tabs.horizontal .mks_tab_nav_item.active{background:#ffffff;}.mks_tabs.vertical .mks_tab_nav_item.active{border-right:1px solid #ffffff;}#vce-pagination,.vce-slider-pagination .owl-controls,.vce-content-outside{background:#f3f3f3;}.sidebar .widget-title{background:#ffffff;color:#232323;}.sidebar .widget{background:#f9f9f9;}.sidebar .widget,.sidebar .widget li a,.sidebar .mks_author_widget h3 a,.sidebar .mks_author_widget h3,.sidebar .vce-search-form .vce-search-input,.sidebar .vce-search-form .vce-search-input:focus{color:#444444;}.sidebar .widget li a:hover,.sidebar .widget a,.widget_nav_menu li.menu-item-has-children:hover:after,.widget_pages li.page_item_has_children:hover:after{color:#cf4d35;}.sidebar .tagcloud a{border:1px solid #cf4d35;}.sidebar .mks_author_link,.sidebar .tagcloud a:hover,.sidebar .mks_themeforest_widget .more,.sidebar button,.sidebar input[type="button"],.sidebar input[type="reset"],.sidebar input[type="submit"],.sidebar .vce-button{background-color:#cf4d35;}.sidebar .mks_author_widget .mks_autor_link_wrap,.sidebar .mks_themeforest_widget .mks_read_more{background:#f3f3f3;}.sidebar #wp-calendar caption,.sidebar .recentcomments,.sidebar .post-date,.sidebar #wp-calendar tbody{color:rgba(68,68,68,0.7);}.site-footer{background:#373941;}.site-footer .widget-title{color:#ffffff;}.site-footer,.site-footer .widget,.site-footer .widget li a,.site-footer .mks_author_widget h3 a,.site-footer .mks_author_widget h3,.site-footer .vce-search-form .vce-search-input,.site-footer .vce-search-form .vce-search-input:focus{color:#f9f9f9;}.site-footer .widget li a:hover,.site-footer .widget a,.site-info a{color:#cf4d35;}.site-footer .tagcloud a{border:1px solid #cf4d35;}.site-footer .mks_author_link,.site-footer .mks_themeforest_widget .more,.site-footer button,.site-footer input[type="button"],.site-footer input[type="reset"],.site-footer input[type="submit"],.site-footer .vce-button,.site-footer .tagcloud a:hover{background-color:#cf4d35;}.site-footer #wp-calendar caption,.site-footer .recentcomments,.site-footer .post-date,.site-footer #wp-calendar tbody,.site-footer .site-info{color:rgba(249,249,249,0.7);}.top-header{background:#3a3a3a;}.top-header,.top-header a{color:#ffffff;}.header-1-wrapper{height:120px;padding-top:15px;}.header-2-wrapper,.header-3-wrapper{height:120px;}.header-2-wrapper .site-branding,.header-3-wrapper .site-branding{top:15px;left:0px;}.site-title a,.site-title a:hover{color:#232323;}.site-description{color:#aaaaaa;}.main-header{background-color:#ffffff;}.header-bottom-wrapper{background:#fcfcfc;}.vce-header-ads{margin:15px 0;}.header-3-wrapper .nav-menu>li>a{padding:50px 15px;}.header-sticky,.sidr{background:rgba(252,252,252,0.95);}.ie8 .header-sticky{background:#ffffff;}.main-navigation a,.nav-menu .vce-mega-menu>.sub-menu>li>a,.sidr li a,.vce-menu-parent{color:#4a4a4a;}.nav-menu>li:hover>a,.nav-menu>.current_page_item>a,.nav-menu>.current-menu-item>a,.nav-menu>.current-menu-ancestor>a,.main-navigation a.vce-item-selected,.main-navigation ul ul li:hover>a,.nav-menu ul .current-menu-item a,.nav-menu ul .current_page_item a,.vce-menu-parent:hover,.sidr li a:hover{color:#cf4d35;}.nav-menu>li:hover>a,.nav-menu>.current_page_item>a,.nav-menu>.current-menu-item>a,.nav-menu>.current-menu-ancestor>a,.main-navigation a.vce-item-selected,.main-navigation ul ul,.header-sticky .nav-menu>.current_page_item:hover>a,.header-sticky .nav-menu>.current-menu-item:hover>a,.header-sticky .nav-menu>.current-menu-ancestor:hover>a,.header-sticky .main-navigation a.vce-item-selected:hover{background-color:#ffffff;}.search-header-wrap ul{border-top:2px solid #cf4d35;}.vce-border-top .main-box-title{border-top:2px solid #cf4d35;}.tagcloud a:hover,.sidebar .widget .mks_author_link,.sidebar .widget.mks_themeforest_widget .more,.site-footer .widget .mks_author_link,.site-footer .widget.mks_themeforest_widget .more,.vce-lay-g .entry-meta div,.vce-lay-g .fn,.vce-lay-g .fn a{color:#FFF;}a.category-0{color:;}body.category-0 .main-box-title,.main-box-title.cat-0{border-top:2px solid;}.widget_categories li.cat-item-0 .count{background:;}.widget_categories li.cat-item-0:before{background:;}.vce-featured-section .category-0{background:;}.vce-lay-g .vce-featured-info .meta-category a.category-0{background-color:;}a.category-11{color:#dd9933;}body.category-11 .main-box-title,.main-box-title.cat-11{border-top:2px solid #dd9933;}.widget_categories li.cat-item-11 .count{background:#dd9933;}.widget_categories li.cat-item-11:before{background:#dd9933;}.vce-featured-section .category-11{background:#dd9933;}.vce-lay-g .vce-featured-info .meta-category a.category-11{background-color:#dd9933;}a.category-15{color:#dd3333;}body.category-15 .main-box-title,.main-box-title.cat-15{border-top:2px solid #dd3333;}.widget_categories li.cat-item-15 .count{background:#dd3333;}.widget_categories li.cat-item-15:before{background:#dd3333;}.vce-featured-section .category-15{background:#dd3333;}.vce-lay-g .vce-featured-info .meta-category a.category-15{background-color:#dd3333;}a.category-14{color:#1e73be;}body.category-14 .main-box-title,.main-box-title.cat-14{border-top:2px solid #1e73be;}.widget_categories li.cat-item-14 .count{background:#1e73be;}.widget_categories li.cat-item-14:before{background:#1e73be;}.vce-featured-section .category-14{background:#1e73be;}.vce-lay-g .vce-featured-info .meta-category a.category-14{background-color:#1e73be;}a.category-13{color:#eeee22;}body.category-13 .main-box-title,.main-box-title.cat-13{border-top:2px solid #eeee22;}.widget_categories li.cat-item-13 .count{background:#eeee22;}.widget_categories li.cat-item-13:before{background:#eeee22;}.vce-featured-section .category-13{background:#eeee22;}.vce-lay-g .vce-featured-info .meta-category a.category-13{background-color:#eeee22;}a.category-39{color:#4281bf;}body.category-39 .main-box-title,.main-box-title.cat-39{border-top:2px solid #4281bf;}.widget_categories li.cat-item-39 .count{background:#4281bf;}.widget_categories li.cat-item-39:before{background:#4281bf;}.vce-featured-section .category-39{background:#4281bf;}.vce-lay-g .vce-featured-info .meta-category a.category-39{background-color:#4281bf;}a.category-20{color:#82b229;}body.category-20 .main-box-title,.main-box-title.cat-20{border-top:2px solid #82b229;}.widget_categories li.cat-item-20 .count{background:#82b229;}.widget_categories li.cat-item-20:before{background:#82b229;}.vce-featured-section .category-20{background:#82b229;}.vce-lay-g .vce-featured-info .meta-category a.category-20{background-color:#82b229;}a.category-44{color:#a59342;}body.category-44 .main-box-title,.main-box-title.cat-44{border-top:2px solid #a59342;}.widget_categories li.cat-item-44 .count{background:#a59342;}.widget_categories li.cat-item-44:before{background:#a59342;}.vce-featured-section .category-44{background:#a59342;}.vce-lay-g .vce-featured-info .meta-category a.category-44{background-color:#a59342;}a.category-82{color:#b588e2;}body.category-82 .main-box-title,.main-box-title.cat-82{border-top:2px solid #b588e2;}.widget_categories li.cat-item-82 .count{background:#b588e2;}.widget_categories li.cat-item-82:before{background:#b588e2;}.vce-featured-section .category-82{background:#b588e2;}.vce-lay-g .vce-featured-info .meta-category a.category-82{background-color:#b588e2;}a.category-89{color:#05acb2;}body.category-89 .main-box-title,.main-box-title.cat-89{border-top:2px solid #05acb2;}.widget_categories li.cat-item-89 .count{background:#05acb2;}.widget_categories li.cat-item-89:before{background:#05acb2;}.vce-featured-section .category-89{background:#05acb2;}.vce-lay-g .vce-featured-info .meta-category a.category-89{background-color:#05acb2;}</style>
+<link rel="stylesheet" id="vce_responsive-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/themes/voice/css/responsive.css?ver=1.2.1" type="text/css" media="screen"/>
+<link rel="stylesheet" id="meks-ads-widget-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-easy-ads-widget/css/style.css?ver=1.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="meks-author-widget-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-smart-author-widget/css/style.css?ver=1.0.8" type="text/css" media="all"/>
+<link rel="stylesheet" id="meks-social-widget-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/meks-smart-social-widget/css/style.css?ver=1.2.5" type="text/css" media="all"/>
+<link rel="stylesheet" id="mc4wp-form-themes-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/mailchimp-for-wp/assets/css/form-themes.min.css?ver=3.1.4" type="text/css" media="all"/>
+<link rel="stylesheet" id="sccss_style-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/?sccss=1&amp;ver=4.4.2" type="text/css" media="all"/>
+<link rel="stylesheet" id="__EPYT__style-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.4.2" type="text/css" media="all"/>
+<style id="__EPYT__style-inline-css" type="text/css">.epyt-gallery-thumb{width:33.333%;}</style>
+<link rel="stylesheet" id="wppb_stylesheet-css" href="//web.archive.org/web/20160413104544cs_/http://www.recette-delice.com/wp-content/plugins/profile-builder/assets/css/style-front-end.css?ver=4.4.2" type="text/css" media="all"/>
+ 
+<script type="text/javascript">
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//web.archive.org/web/20160413104544/http://www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-48756762-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview');
+
+</script>
+ 
+<script type="text/javascript">
+			window.ParsleyConfig = { excluded: ".exclude" };
+			var usp_case_sensitivity = "false";
+			var usp_challenge_response = "19";
+		</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/featherlight/featherlight.min.js?ver=4.4.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var lb_l_ret = {"width":"400","height":"255","delay":"8000","coc":"1","fb_id":"548173928613480","cooc":"0","install_date":"1430237185","display_on_page":"1","display_on_post":"1","display_on_homepage":"1","display_on_archive":"1","show_once":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/facebook-page-promoter-lightbox/includes/launch/launch.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/meks-flexible-shortcodes/js/main.js?ver=1.2.8"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/user-submitted-posts/resources/jquery.cookie.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/user-submitted-posts/resources/jquery.parsley.min.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/user-submitted-posts/resources/jquery.usp.core.js"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/wpfront-notification-bar/jquery-plugins/jquery.c.js?ver=1.4.0"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/wpfront-notification-bar/js/wpfront-notification-bar.js?ver=1.7"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-admin\/admin-ajax.php","security":"207edb12cc","gallery_scrolloffset":"20","eppathtoscripts":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe[src*='youtube.com']\",\"iframe[src*='youtube-nocookie.com']\",\"iframe[data-ep-src*='youtube.com']\",\"iframe[data-ep-src*='youtube-nocookie.com']\",\"iframe[data-ep-gallerysrc*='youtube.com']\"]","epdovol":"1","version":"11.0.1","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.4.2"></script>
+<link rel="https://api.w.org/" href="//www.recette-delice.com/wp-json/"/>
+<meta name="generator" content="WordPress 4.4.2"/>
+<link rel="shortlink" href="//web.archive.org/web/20160413104544/http://www.recette-delice.com/"/>
+ 
+<div align="center"><noscript>
+<div style="position:fixed; top:0px; left:0px; z-index:3000; height:100%; width:100%; background-color:#FFFFFF">
+<div style="font-family: Trebuchet MS; font-size: 14px; background-color:#FFF000; padding: 10pt;">Oops! It appears that you have disabled your Javascript. In order for you to see this page as it is meant to appear, we ask that you please re-enable your Javascript!</div></div>
+</noscript></div>
+<script type="text/javascript">
+function disableSelection(e){if(typeof e.onselectstart!="undefined")e.onselectstart=function(){return false};else if(typeof e.style.MozUserSelect!="undefined")e.style.MozUserSelect="none";else e.onmousedown=function(){return false};e.style.cursor="default"}window.onload=function(){disableSelection(document.body)}
+</script>
+<script type="text/javascript">
+document.oncontextmenu=function(e){var t=e||window.event;var n=t.target||t.srcElement;if(n.nodeName!="A")return false};
+document.ondragstart=function(){return false};
+</script>
+<style type="text/css">*: (input, textarea) {
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+}</style>
+<style type="text/css">img{-webkit-touch-callout:none;-webkit-user-select:none;}</style>
+<script type="text/javascript">
+window.addEventListener("keydown",function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==67||e.which==70||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){e.preventDefault()}});document.keypress=function(e){if(e.ctrlKey&&(e.which==65||e.which==66||e.which==70||e.which==67||e.which==73||e.which==80||e.which==83||e.which==85||e.which==86)){}return false}
+</script>
+<script type="text/javascript">
+document.onkeydown=function(e){e=e||window.event;if(e.keyCode==123||e.keyCode==18){return false}}
+</script>
+ 
+<style type="text/css">.mc4wp-checkbox-wp-comment-form{clear:both;display:block;position:static;width:auto;}.mc4wp-checkbox-wp-comment-form input{float:none;width:auto;position:static;margin:0 6px 0 0;padding:0;vertical-align:middle;display:inline-block!important;max-width:21px;-webkit-appearance:checkbox;}.mc4wp-checkbox-wp-comment-form label{float:none;display:block;cursor:pointer;width:auto;position:static;}</style><style type="text/css">.mc4wp-checkbox-wp-registration-form{clear:both;display:block;position:static;width:auto;}.mc4wp-checkbox-wp-registration-form input{float:none;width:auto;position:static;margin:0 6px 0 0;padding:0;vertical-align:middle;display:inline-block!important;max-width:21px;-webkit-appearance:checkbox;}.mc4wp-checkbox-wp-registration-form label{float:none;display:block;cursor:pointer;width:auto;position:static;}</style><link rel="shortcut icon" href="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/03/favicon.ico" type="image/x-icon"/><style type="text/css">.main-navigation li,.top-nav-menu li{position:initial;}.custom-login-menu{background:#E56363;}.custom-login-menu:hover{background:#E56363!important;border:2px solid #E56363;}.custom-login-menu:active{background:#E56363;}.custom-login-menu a{color:white!important;}.custom-login-menu a:hover{color:#E56363!important;}.mks_author_widget p{text-align:center;}.vce-share-bar{margin-top:35px;}.meta-tags a{background:#cf4d35;color:white;padding:3px 10px;}.meta-tags a:hover{background:#D07666;text-decoration:none;}#breadcrumbs{padding:5px 10px;text-align:center;background:#E0E0E0;}.fa-chain:before,.fa-link:before{content:"→ visiter son lien";font-style:italic;font-size:medium;}.sidebar .mks_author_widget .mks_autor_link_wrap,.sidebar .mks_themeforest_widget .mks_read_more{position:inherit;}.header-1-wrapper{margin-bottom:10px;}a#usp_add-another{font-size:13px;font-weight:bold;}</style> <script src="//web.archive.org/web/20160413104544js_/http://connect.facebook.net/en_EN/all.js#xfbml=1"></script></head>
+<body class="home page page-id-9 page-template page-template-template-modules page-template-template-modules-php chrome vce-sid-right">
+<div id="vce-main">
+<header id="header" class="main-header">
+<div class="top-header">
+<div class="container">
+<div class="vce-wrap-left">
+<ul id="vce_top_navigation_menu" class="top-nav-menu"><li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/cuistots/">Nos Cuistots</a></li>
+<li id="menu-item-211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-211"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/a-propos/">À propos</a></li>
+<li id="menu-item-116" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-116"><a href="https://web.archive.org/web/20160413104544/http://recette-delice.com/contact">Contact</a></li>
+<li><a href="/web/20160413104544/http://www.recette-delice.com/inscription">S'inscrire</a></li><li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/login">Se connecter</a></li></ul> </div>
+<div class="vce-wrap-right">
+<div class="menu-social-menu-container"><ul id="vce_social_menu" class="soc-nav-menu"><li id="menu-item-112" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-112"><a href="https://web.archive.org/web/20160413104544/https://www.facebook.com/astuces.beaute.sante" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://web.archive.org/web/20160413104544/https://www.facebook.com/astuces.beaute.sante', 'Facebook');" target="_blank"><span class="vce-social-name">Facebook</span></a></li>
+<li id="menu-item-113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-113"><a href="https://web.archive.org/web/20160413104544/https://twitter.com/recettedelice" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://web.archive.org/web/20160413104544/https://twitter.com/recettedelice', 'Twitter');" target="_blank"><span class="vce-social-name">Twitter</span></a></li>
+</ul></div> </div>
+</div>
+</div><div class="container header-1-wrapper header-main-area">
+<div class="vce-res-nav">
+<a class="vce-responsive-nav" href="#sidr-main"><i class="fa fa-bars"></i></a>
+</div>
+<div class="site-branding">
+<h1 class="site-title">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/" title="Recettes &amp; Délices" class="has-logo"><img src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/02/logo.png" alt="Recettes &amp; Délices"/></a>
+</h1>
+<span class="site-description">Des recettes de cuisine par vous et pour vous.</span>
+</div></div>
+<div class="header-bottom-wrapper">
+<div class="container">
+<nav id="site-navigation" class="main-navigation" role="navigation">
+<ul id="vce_main_navigation_menu" class="nav-menu"><li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9 current_page_item menu-item-106"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/">Accueil</a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-147"><a href="#">Recettes par catégories</a>
+<ul class="sub-menu">
+<li id="menu-item-150" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-150 vce-cat-20"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/entrees/">Entrées</a></li>
+<li id="menu-item-151" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-151 vce-cat-21"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/plats/">Plats</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-149 vce-cat-22"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/">Desserts</a></li>
+</ul>
+</li>
+<li id="menu-item-152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-152"><a href="#">Recettes par envies</a>
+<ul class="sub-menu">
+<li id="menu-item-153" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-153 vce-cat-39"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/beignets-crepes/">Beignets-Crêpes</a></li>
+<li id="menu-item-555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-555 vce-cat-71"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/biscuits/">Biscuits</a></li>
+<li id="menu-item-154" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-154 vce-cat-38"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/chocolat/">Chocolat</a></li>
+<li id="menu-item-155" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-155 vce-cat-15"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/">Gâteaux</a></li>
+<li id="menu-item-156" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-156 vce-cat-46"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gratin/">Gratin</a></li>
+<li id="menu-item-783" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-783 vce-cat-82"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/macarons/">Macarons</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-157 vce-cat-45"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/pain/">Pain</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158 vce-cat-42"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/quiches/">Quiches</a></li>
+<li id="menu-item-159" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-159 vce-cat-40"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/sandwich/">Sandwich</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-160 vce-cat-44"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tartes/">Tartes</a></li>
+<li id="menu-item-161" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-161 vce-cat-41"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tiramisu/">Tiramisu</a></li>
+<li id="menu-item-162" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-162 vce-cat-43"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/verrines/">Verrines</a></li>
+</ul>
+</li>
+<li id="menu-item-163" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-163"><a href="#">Recettes par ingrédients</a>
+<ul class="sub-menu">
+<li id="menu-item-166" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-166"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/banane/">Banane</a></li>
+<li id="menu-item-170" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-170"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/fraise/">Fraise</a></li>
+<li id="menu-item-172" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-172"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/fromage/">Fromage</a></li>
+<li id="menu-item-173" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-173"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/pates/">Pâtes</a></li>
+<li id="menu-item-177" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-177"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/thon/">Thon</a></li>
+<li id="menu-item-482" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-482"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/orange/">orange</a></li>
+<li id="menu-item-483" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-483"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/truffe/">truffe</a></li>
+<li id="menu-item-484" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-484"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/abricot/">abricot</a></li>
+<li id="menu-item-485" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-485"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/confiture/">confiture</a></li>
+<li id="menu-item-486" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-486"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/poire/">poire</a></li>
+<li id="menu-item-487" class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-487"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tag/yaourt/">yaourt</a></li>
+</ul>
+</li>
+<li id="menu-item-270" class="custom-login-menu menu-item menu-item-type-post_type menu-item-object-page menu-item-270"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/deposer-recette/">Déposer Ma Recette</a></li>
+<li class="search-header-wrap"><a class="search_header" href="javascript:void(0)"><i class="fa fa-search"></i></a><ul class="search-header-form-ul"><li><form class="search-header-form" action="//web.archive.org/web/20160413104544/http://www.recette-delice.com/" method="get">
+<input name="s" class="search-input" size="20" type="text" value="Taper ici pour rechercher..." onfocus="(this.value == 'Taper ici pour rechercher...') &amp;&amp; (this.value = '')" onblur="(this.value == '') &amp;&amp; (this.value = 'Taper ici pour rechercher...')" placeholder="Taper ici pour rechercher..."/>
+</form></li></ul></li></ul></nav> </div>
+</div></header>
+<div id="main-wrapper">
+<div id="vce-featured-grid" class="vce-featured-grid">
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-facile/" title="Génoise facile">Génoise facile</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 12 mois</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-facile/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-facile/" title="Génoise facile">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/génoise-facile-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="génoise facile"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/mille-feuille1/" title="Mille feuille">Mille feuille</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/mille-feuille1/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/mille-feuille1/" title="Mille feuille">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Mille-feuille-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="Mille feuille"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/chocolat/" class="category-38">Chocolat</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/carres-de-chocolat/" title="Carrés de chocolat">Carrés de chocolat</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/carres-de-chocolat/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/carres-de-chocolat/" title="Carrés de chocolat">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/03/Carrés-de-chocolat1-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="Carrés de chocolat1"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/chocolat/" class="category-38">Chocolat</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateaux-aux-chocolat/" title="gâteaux aux chocolat">gâteaux aux chocolat</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateaux-aux-chocolat/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateaux-aux-chocolat/" title="gâteaux aux chocolat">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/03/gateaux-aux-chocolat-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="gateaux aux chocolat"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/fraisier-facile/" title="Fraisier facile">Fraisier facile</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 12 mois</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/fraisier-facile/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/fraisier-facile/" title="Fraisier facile">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Fraisier-facile-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="Fraisier facile"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/chocolat/" class="category-38">Chocolat</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/delicieux-dessert-froid/" title="Délicieux dessert froid">Délicieux dessert froid</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 11 mois</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/delicieux-dessert-froid/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/delicieux-dessert-froid/" title="Délicieux dessert froid">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/05/Délicieux-dessert-froid-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="Délicieux dessert froid"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/basboussa1/" title="basboussa">basboussa</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 10 mois</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/basboussa1/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/basboussa1/" title="basboussa">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/06/basboussa1-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="basboussa1"/> </a>
+</div>
+<div class="vce-grid-item">
+<div class="vce-grid-text">
+<div class="vce-featured-info">
+<div class="vce-featured-section">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a> </div>
+<h2 class="vce-featured-title">
+<a class="vce-featured-link-article" href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-fourree-a-la-creme-au-citron/" title="Génoise fourrée à la crème au citron">Génoise fourrée à la crème au citron</a>
+</h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 9 mois</span></div></div>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-fourree-a-la-creme-au-citron/" class="vce-featured-header-background"></a>
+</div>
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/genoise-fourree-a-la-creme-au-citron/" title="Génoise fourrée à la crème au citron">
+<img width="380" height="260" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/07/Génoise-fourrée-à-la-crème-au-citron-380x260.jpg" class="attachment-vce-fa-grid size-vce-fa-grid wp-post-image" alt="Génoise fourrée à la crème au citron"/> </a>
+</div>
+</div>
+<div id="content" class="container site-content">
+<div id="primary" class="vce-main-content">
+<div id="main-box-1" class="main-box vce-border-top ">
+<h3 class="main-box-title ">Recettes les plus consultées</h3>
+<div class="main-box-inside ">
+<div class="vce-loop-wrap vce-slider-pagination vce-slider-c">
+<article class="vce-post vce-lay-c post-1214 post type-post status-publish format-standard has-post-thumbnail hentry category-boulangerie category-pain tag-pate-magique">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/pate-magique/" title="Pâte Magique">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/pate-magique-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="pate magique"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/boulangerie/" class="category-11">Boulangerie</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/pain/" class="category-45">Pain</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/pate-magique/" title="Pâte Magique">Pâte Magique</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</header>
+<div class="entry-content">
+<p>Recette de base une magnifique pâte, très pratique, facile à faire, elle est souple et agréable...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-1407 post type-post status-publish format-standard has-post-thumbnail hentry category-entrees">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/makouda-farcis-a-la-vache-qui-rit/" title="Makouda farcis à la vache qui rit">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Makouda-farcis-à-la-vache-qui-rit-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="Makouda farcis à la vache qui rit" srcset="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Makouda-farcis-à-la-vache-qui-rit-375x195.jpg 375w, //web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Makouda-farcis-à-la-vache-qui-rit-960x500.jpg 960w" sizes="(max-width: 375px) 100vw, 375px"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/entrees/" class="category-20">Entrées</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/makouda-farcis-a-la-vache-qui-rit/" title="Makouda farcis à la vache qui rit">Makouda farcis à la vache qui rit</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 12 mois</span></div></div>
+</header>
+<div class="entry-content">
+<p>Ingrédients:
+pommes de terres cuites à l&rsquo;eau(selon combien vous êtes)
+1 oignon coupé en...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-1358 post type-post status-publish format-standard has-post-thumbnail hentry category-beignets-crepes category-pain">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/msemens-a-la-semoule-fine/" title="Msemens à la semoule fine">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Msemens-à-la-semoule-fine-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="Msemens à la semoule fine" srcset="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Msemens-à-la-semoule-fine-375x195.jpg 375w, //web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/Msemens-à-la-semoule-fine-960x500.jpg 960w" sizes="(max-width: 375px) 100vw, 375px"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/beignets-crepes/" class="category-39">Beignets-Crêpes</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/pain/" class="category-45">Pain</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/msemens-a-la-semoule-fine/" title="Msemens à la semoule fine">Msemens à la semoule fine</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 12 mois</span></div></div>
+</header>
+<div class="entry-content">
+<p>Elles sont feuilletées, croustillantes et un vrai bonheur.;j&rsquo;ai essayé la recette des...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-1781 post type-post status-publish format-standard has-post-thumbnail hentry category-idees-astuces tag-poulet">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/poulet-facon-kfc/" title="Poulet façon KFC">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/05/Poulet-façon-KFC-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="Poulet façon KFC"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/idees-astuces/" class="category-89">Idées &amp; Astuces</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/poulet-facon-kfc/" title="Poulet façon KFC">Poulet façon KFC</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 11 mois</span></div></div>
+</header>
+<div class="entry-content">
+<p>Ingrédients:
+1 c à c d&rsquo;ail séché
+1 c à c d&rsquo;oignon séché
+1 c à c et demi de...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-1650 post type-post status-publish format-standard has-post-thumbnail hentry category-beignets-crepes category-entrees">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepes-turque/" title="crêpes turque">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/05/crêpes-turque2-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="crêpes turque" srcset="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/05/crêpes-turque2-375x195.jpg 375w, //web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/05/crêpes-turque2-960x500.jpg 960w" sizes="(max-width: 375px) 100vw, 375px"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/beignets-crepes/" class="category-39">Beignets-Crêpes</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/entrees/" class="category-20">Entrées</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepes-turque/" title="crêpes turque">crêpes turque</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 11 mois</span></div></div>
+</header>
+<div class="entry-content">
+<p>Ingrédients:  
+500 g de farine
+3 c à s d&rsquo;huile d&rsquo;olive
+1 c à c de sel
+1 c à c...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-693 post type-post status-publish format-standard has-post-thumbnail hentry category-tartes-tourtes-salees-pizzas tag-fromage tag-pate-magique">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tourte-burger/" title="Tourte burger">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/03/tourte-burger2-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="tourte burger2"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tartes-tourtes-salees-pizzas/" class="category-13">Tartes &amp; Tourtes salées, Pizzas</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tourte-burger/" title="Tourte burger">Tourte burger</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</header>
+<div class="entry-content">
+<p>Ingrédients:
+Pour la pâte (magique):
+Farine
+1 œuf
+1 verre de beurre fondu et d&rsquo;huile...</p>
+</div>
+</article>
+<article class="vce-post vce-lay-c post-1145 post type-post status-publish format-standard has-post-thumbnail hentry category-biscuits category-desserts">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/griwech/" title="griwech">
+<img width="375" height="195" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2015/04/griwech1-375x195.jpg" class="attachment-vce-lay-b size-vce-lay-b wp-post-image" alt="griwech"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/biscuits/" class="category-71">Biscuits</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/griwech/" title="griwech">griwech</a></h2>
+<div class="entry-meta"><div class="meta-item date"><span class="updated">Il y a 1 année</span></div></div>
+</header>
+<div class="entry-content">
+<p>Ingrédients:
+500 gr de farine tamisée
+150 gr de beurre
+1 œuf entier
+1 cuillère à café de...</p>
+</div>
+</article>
+</div>
+</div>
+</div>
+<div id="main-box-2" class="main-box vce-border-top ">
+<h3 class="main-box-title ">Recettes populaires de la semaine</h3>
+<div class="main-box-inside ">
+<div class="vce-loop-wrap vce-slider-pagination vce-slider-e">
+<article class="vce-post vce-lay-e post-2347 post type-post status-publish format-standard has-post-thumbnail hentry category-biscuits category-desserts category-gateaux tag-confiture">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateau-sec/" title="gâteau sec">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/gâteau-sec-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="gâteau sec"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateau-sec/" title="gâteau sec">gâteau sec</a></h2>
+</header>
+</article>
+<article class="vce-post vce-lay-e post-2340 post type-post status-publish format-standard has-post-thumbnail hentry category-beignets-crepes tag-fromage tag-harissa">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepe-au-fromage-oeuf-et-harissa/" title="Crêpe au fromage, oeuf et harissa">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/Crêpe-au-fromage-oeuf-et-harissa-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="Crêpe au fromage, oeuf et harissa"/> </a>
+</div>
+<header class="entry-header">
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepe-au-fromage-oeuf-et-harissa/" title="Crêpe au fromage, oeuf et harissa">Crêpe au fromage, oeuf et harissa</a></h2>
+</header>
+</article>
+</div>
+</div>
+</div>
+<div id="main-box-3" class="main-box vce-border-top ">
+<h3 class="main-box-title ">Dernières Recettes</h3>
+<div class="main-box-inside ">
+<div class="vce-loop-wrap">
+<article class="vce-post vce-lay-d post-2347 post type-post status-publish format-standard has-post-thumbnail hentry category-biscuits category-desserts category-gateaux tag-confiture">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateau-sec/" title="gâteau sec">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/gâteau-sec-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="gâteau sec"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/biscuits/" class="category-71">Biscuits</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/gateau-sec/" title="gâteau sec">gâteau sec</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2340 post type-post status-publish format-standard has-post-thumbnail hentry category-beignets-crepes tag-fromage tag-harissa">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepe-au-fromage-oeuf-et-harissa/" title="Crêpe au fromage, oeuf et harissa">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/Crêpe-au-fromage-oeuf-et-harissa-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="Crêpe au fromage, oeuf et harissa"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/beignets-crepes/" class="category-39">Beignets-Crêpes</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/crepe-au-fromage-oeuf-et-harissa/" title="Crêpe au fromage, oeuf et harissa">Crêpe au fromage, oeuf et harissa</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2335 post type-post status-publish format-standard has-post-thumbnail hentry category-plats tag-poulet tag-viande-hachee">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/roti-de-poulet-farci/" title="Rôti de poulet farci">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/Rôti-de-poulet-farci-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="Rôti de poulet farci"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/plats/" class="category-21">Plats</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/roti-de-poulet-farci/" title="Rôti de poulet farci">Rôti de poulet farci</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2328 post type-post status-publish format-standard has-post-thumbnail hentry category-desserts category-gateaux tag-fraise">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/bavarois-a-fraise/" title="Bavarois à la fraise">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/04/Bavarois-à-la-fraise2-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="Bavarois à la fraise2"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/" class="category-15">Gâteaux</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/bavarois-a-fraise/" title="Bavarois à la fraise">Bavarois à la fraise</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2313 post type-post status-publish format-standard has-post-thumbnail hentry category-desserts category-verrines tag-creme-chantilly tag-fraise">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/verrines-au-fraises/" title="verrines au fraises">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/03/verrines-au-fraises-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="verrines au fraises"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/verrines/" class="category-43">Verrines</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/verrines-au-fraises/" title="verrines au fraises">verrines au fraises</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2306 post type-post status-publish format-standard has-post-thumbnail hentry category-biscuits">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/sable-au-nakache/" title="sablé au nakache">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/03/sablé-au-nakache-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="sablé au nakache"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/biscuits/" class="category-71">Biscuits</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/sable-au-nakache/" title="sablé au nakache">sablé au nakache</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+<article class="vce-post vce-lay-d post-2298 post type-post status-publish format-standard has-post-thumbnail hentry category-desserts category-tartes">
+<div class="meta-image">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tarte-a-lorange-et-meringue/" title="Tarte a l’orange et meringue">
+<img width="145" height="100" src="//web.archive.org/web/20160413104544im_/http://www.recette-delice.com/wp-content/uploads/2016/03/tarte-a-lorange-et-meringue-145x100.jpg" class="attachment-vce-lay-d size-vce-lay-d wp-post-image" alt="tarte a l'orange et meringue"/> </a>
+</div>
+<header class="entry-header">
+<span class="meta-category"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/" class="category-22">Desserts</a> <span>&bull;</span> <a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tartes/" class="category-44">Tartes</a></span>
+<h2 class="entry-title"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/tarte-a-lorange-et-meringue/" title="Tarte a l’orange et meringue">Tarte a l&rsquo;orange et meringue</a></h2>
+<div class="entry-meta"></div>
+</header>
+</article>
+</div>
+<nav id="vce-pagination" class="vce-load-more">
+<a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/page/2/">Charger plus</a> </nav>
+</div>
+</div>
+</div>
+<aside id="sidebar" class="sidebar right">
+<div id="vce_adsense_widget-4" class="widget vce_adsense_widget vce_adsense_expand"> <div class="vce_adsense_wrapper">
+<script async src="//web.archive.org/web/20160413104544js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-3161895907513837" data-ad-slot="1825291309"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+</div><div id="categories-2" class="widget widget_categories"><h4 class="widget-title">Catégories</h4> <ul>
+<li class="cat-item cat-item-39"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/beignets-crepes/"><span class="category-text">Beignets-Crêpes</span><span class="count"><span class="count-hidden">14</span></span></a>
+</li>
+<li class="cat-item cat-item-71"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/biscuits/"><span class="category-text">Biscuits</span><span class="count"><span class="count-hidden">25</span></span></a>
+</li>
+<li class="cat-item cat-item-11"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/boulangerie/"><span class="category-text">Boulangerie</span><span class="count"><span class="count-hidden">17</span></span></a>
+</li>
+<li class="cat-item cat-item-38"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/chocolat/"><span class="category-text">Chocolat</span><span class="count"><span class="count-hidden">21</span></span></a>
+</li>
+<li class="cat-item cat-item-22"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/desserts/"><span class="category-text">Desserts</span><span class="count"><span class="count-hidden">80</span></span></a>
+</li>
+<li class="cat-item cat-item-20"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/entrees/"><span class="category-text">Entrées</span><span class="count"><span class="count-hidden">41</span></span></a>
+</li>
+<li class="cat-item cat-item-15"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gateaux/"><span class="category-text">Gâteaux</span><span class="count"><span class="count-hidden">46</span></span></a>
+</li>
+<li class="cat-item cat-item-46"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/gratin/"><span class="category-text">Gratin</span><span class="count"><span class="count-hidden">3</span></span></a>
+</li>
+<li class="cat-item cat-item-89"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/idees-astuces/"><span class="category-text">Idées &amp; Astuces</span><span class="count"><span class="count-hidden">14</span></span></a>
+</li>
+<li class="cat-item cat-item-82"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/macarons/"><span class="category-text">Macarons</span><span class="count"><span class="count-hidden">3</span></span></a>
+</li>
+<li class="cat-item cat-item-1"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/non-classe/"><span class="category-text">Non classé</span><span class="count"><span class="count-hidden">1</span></span></a>
+</li>
+<li class="cat-item cat-item-45"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/pain/"><span class="category-text">Pain</span><span class="count"><span class="count-hidden">11</span></span></a>
+</li>
+<li class="cat-item cat-item-14"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/pizza/"><span class="category-text">Pizza</span><span class="count"><span class="count-hidden">3</span></span></a>
+</li>
+<li class="cat-item cat-item-21"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/plats/"><span class="category-text">Plats</span><span class="count"><span class="count-hidden">12</span></span></a>
+</li>
+<li class="cat-item cat-item-42"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/quiches/"><span class="category-text">Quiches</span><span class="count"><span class="count-hidden">4</span></span></a>
+</li>
+<li class="cat-item cat-item-40"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/sandwich/"><span class="category-text">Sandwich</span><span class="count"><span class="count-hidden">3</span></span></a>
+</li>
+<li class="cat-item cat-item-44"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tartes/"><span class="category-text">Tartes</span><span class="count"><span class="count-hidden">14</span></span></a>
+</li>
+<li class="cat-item cat-item-13"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tartes-tourtes-salees-pizzas/"><span class="category-text">Tartes &amp; Tourtes salées, Pizzas</span><span class="count"><span class="count-hidden">19</span></span></a>
+</li>
+<li class="cat-item cat-item-41"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/tiramisu/"><span class="category-text">Tiramisu</span><span class="count"><span class="count-hidden">2</span></span></a>
+</li>
+<li class="cat-item cat-item-43"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/category/verrines/"><span class="category-text">Verrines</span><span class="count"><span class="count-hidden">6</span></span></a>
+</li>
+</ul>
+</div><div id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script> <form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-2272 mc4wp-form-theme mc4wp-form-theme-red" method="post" data-id="2272" data-name="Formulaire d'inscription par défaut"><div class="mc4wp-form-fields"><p class="mc4wp-p">Ne ratez pas les nouvelles recettes de cuisine préparées et publiées par nos cuistots.</p>
+<p>
+<input type="email" id="mc4wp_email" name="EMAIL" placeholder="Entrez votre Email ici" required/>
+</p>
+<p>
+<input type="submit" value="JE M'ABONNE!"/>
+</p><div style="display: none;"><input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off"/></div><input type="hidden" name="_mc4wp_timestamp" value="1460544346"/><input type="hidden" name="_mc4wp_form_id" value="2272"/><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1"/></div><div class="mc4wp-response"></div></form> </div><div id="vce_adsense_widget-2" class="widget vce_adsense_widget vce_adsense_expand"> <div class="vce_adsense_wrapper">
+<script async src="//web.archive.org/web/20160413104544js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:300px;height:250px" data-ad-client="ca-pub-3161895907513837" data-ad-slot="5384030501"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+</div></aside>
+</div>
+<footer id="footer" class="site-footer">
+<div class="container">
+<div class="container-fix">
+<div class="bit-3">
+<div id="text-2" class="widget widget_text"><h4 class="widget-title">Qu&rsquo;est-ce que Recettes &#038; Délices ?</h4> <div class="textwidget"><p>Recettes &amp; Délices est un site communautaire pour les passionnés de cuisine qui veulent partager librement leurs recettes de cuisine.</p>
+<p>Vous retrouverez sur ce blog culinaire des recettes diverses et variées exclusivement préparées et publiées par les membres souscrits au site.</p>
+<p>Si vous souhaitez rejoindre notre communauté, alors n’hésitez pas à <a href="/web/20160413104544/http://www.recette-delice.com/inscription">vous inscrire</a> dès maintenant.</p>
+</div>
+</div> </div>
+<div class="bit-3">
+<div id="archives-2" class="widget widget_archive"><h4 class="widget-title">Archives</h4> <ul>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2016/04/">avril 2016</a>&nbsp;(4)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2016/03/">mars 2016</a>&nbsp;(8)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2016/01/">janvier 2016</a>&nbsp;(2)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/12/">décembre 2015</a>&nbsp;(1)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/10/">octobre 2015</a>&nbsp;(6)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/08/">août 2015</a>&nbsp;(9)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/07/">juillet 2015</a>&nbsp;(4)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/06/">juin 2015</a>&nbsp;(34)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/05/">mai 2015</a>&nbsp;(37)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/04/">avril 2015</a>&nbsp;(56)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/03/">mars 2015</a>&nbsp;(57)</li>
+<li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/2015/02/">février 2015</a>&nbsp;(10)</li>
+</ul>
+</div> </div>
+<div class="bit-3">
+<div id="text-3" class="widget widget_text"><h4 class="widget-title">Softmedias, Agence Web Digitale</h4> <div class="textwidget"><p>Créer votre site web professionnel ou personnel en confiant votre projet à Softmedias, l'agence web qui concrétise vos idées dans un site web moderne, fonctionnel et prêt à générer des prospects, attirer des clients et créer des opportunités.</p>
+<p>Vous êtes à quelques clics pour <a href="https://web.archive.org/web/20160413104544/http://softmedias.com/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'https://web.archive.org/web/20160413104544/http://softmedias.com', 'créer votre site web');" target="_blank">créer votre site web</a> !</p>
+</div>
+</div> </div>
+</div>
+</div>
+<div class="container-full site-info">
+<div class="container">
+<div class="vce-wrap-left">
+<p>Copyright © 2015, <a title="Recettes &amp; Délices" href="https://web.archive.org/web/20160413104544/http://recette-delice.com/">Recettes &amp; Délices</a>.</p> </div>
+<div class="vce-wrap-right">
+<ul id="vce_footer_menu" class="bottom-nav-menu"><li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/cuistots/">Nos Cuistots</a></li>
+<li id="menu-item-394" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-394"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/conditions-utilisation/">Conditions d&rsquo;utilisation</a></li>
+<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/contact/">Contact</a></li>
+<li><a href="/web/20160413104544/http://www.recette-delice.com/inscription">S'inscrire</a></li><li><a href="https://web.archive.org/web/20160413104544/http://www.recette-delice.com/login">Se connecter</a></li></ul> </div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+<a href="javascript:void(0)" id="back-top"><i class="fa fa-angle-up"></i></a>
+<style type="text/css">#wpfront-notification-bar{background:#fffff0;background:-moz-linear-gradient(top,#fffff0 0%,#ffffff 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#fffff0),color-stop(100%,#ffffff));background:-webkit-linear-gradient(top,#fffff0 0%,#ffffff 100%);background:-o-linear-gradient(top,#fffff0 0%,#ffffff 100%);background:-ms-linear-gradient(top,#fffff0 0%,#ffffff 100%);background:linear-gradient(to bottom,#fffff0 0%,#ffffff 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffff0',endColorstr='#ffffff',GradientType=0);}#wpfront-notification-bar div.wpfront-message{color:#ffffff;}#wpfront-notification-bar a.wpfront-button{background:#969696;background:-moz-linear-gradient(top,#969696 0%,#9acbd6 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#969696),color-stop(100%,#9acbd6));background:-webkit-linear-gradient(top,#969696 0%,#9acbd6 100%);background:-o-linear-gradient(top,#969696 0%,#9acbd6 100%);background:-ms-linear-gradient(top,#969696 0%,#9acbd6 100%);background:linear-gradient(to bottom,#969696 0%,#9acbd6 100%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#969696',endColorstr='#9acbd6',GradientType=0);color:#ffffff;}#wpfront-notification-bar-open-button{background-color:#00b7ea;}#wpfront-notification-bar div.wpfront-close{border:1px solid #575757;background-color:#575757;color:#ffffff;}#wpfront-notification-bar div.wpfront-close:hover{border:1px solid #aaaaaa;background-color:#aaaaaa;}</style>
+<div id="wpfront-notification-bar-spacer" style="display: none;">
+<div id="wpfront-notification-bar-open-button" class="bottom wpfront-top-shadow"></div>
+<div id="wpfront-notification-bar" class="wpfront-fixed ">
+<div class="wpfront-close">X</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="wpfront-message">
+<script async src="//web.archive.org/web/20160413104544js_/http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+ 
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-3161895907513837" data-ad-slot="6503439701"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script> </div>
+<div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<style type="text/css">#wpfront-notification-bar{background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0.51) 100%);}</style>
+<script type="text/javascript">if(typeof wpfront_notification_bar == "function") wpfront_notification_bar({"position":2,"height":0,"fixed_position":"on","animate_delay":0,"close_button":true,"button_action_close_bar":false,"auto_close_after":0,"display_after":0,"is_admin_bar_showing":false,"display_open_button":"on","keep_closed":false,"keep_closed_for":0,"position_offset":0,"display_scroll":"on","display_scroll_offset":0});</script><div style="display:none">
+<div id="arvlbdata" style="overflow:visible;width:400px;height:250px;">
+<div allowtransparency="true" style="overflow:hidden;width:400px;height:250px;" class="fb-page" data-href="https://www.facebook.com/548173928613480" data-width="400" data-height="250" data-small-header="false" data-adapt-container-width="false" data-hide-cover="true" data-show-facepile="true" data-show-posts="false">
+</div>
+</div>
+</div>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Envoi en cours ..."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/yet-another-stars-rating/js/jquery.rateit.min.js?ver=1.0.22"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var yasrCommonData = {"postid":"9","ajaxurl":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-admin\/admin-ajax.php","loggedUser":"","visitorStatsEnabled":"yes","tooltipValues":["'Mauvais'","'faible'","'ok'","'bon'","'super'"],"loaderHtml":"<div id=\"loader-visitor-rating\" >\u00a0 Chargement, attendez s'il vous plait <img src=http:\/\/www.recette-delice.com\/wp-content\/plugins\/yet-another-stars-rating\/img\/loader.gif title=\"yasr-loader\" alt=\"yasr-loader\"><\/div>"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+var yasrVisitorsVotesData = {"nonceVisitor":"053e32664d"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/yet-another-stars-rating/js/yasr-front.js?ver=1.0.0"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/ui/progressbar.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/jquery/ui/tooltip.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/imagesloaded.pkgd.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/owl.carousel.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/affix.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/jquery.matchHeight.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/jquery.fitvids.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/jquery.sidr.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/jquery.magnific-popup.min.js?ver=1.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var vce_js_settings = {"sticky_header":"1","sticky_header_offset":"700","sticky_header_logo":"","logo_retina":"","rtl_mode":"0","ajax_url":"https:\/\/web.archive.org\/web\/20160413104544\/http:\/\/www.recette-delice.com\/wp-admin\/admin-ajax.php","lay_fa_grid_center":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/themes/voice/js/custom.js?ver=1.2.1"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.4.2"></script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-includes/js/wp-embed.min.js?ver=4.4.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type="text/javascript" src="//web.archive.org/web/20160413104544js_/http://www.recette-delice.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=3.1.4"></script>
+<script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}})();</script>
+</body>
+</html><!--
+     FILE ARCHIVED ON 10:45:44 Apr 13, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:17:17 Jun 24, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 172.959
+  exclusion.robots: 0.306
+  exclusion.robots.policy: 0.273
+  cdx.remote: 0.085
+  esindex: 0.011
+  LoadShardBlock: 135.779 (3)
+  PetaboxLoader3.datanode: 58.033 (4)
+  PetaboxLoader3.resolve: 110.547 (3)
+  load_resource: 79.128
+-->

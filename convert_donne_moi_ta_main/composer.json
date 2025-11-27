@@ -1,0 +1,17 @@
+{
+    "name": "mathieu/convert_donne_moi_ta_main",
+    "autoload": {
+        "psr-4": {
+            "Mathieu\\ConvertDonneMoiTaMain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mathieu",
+            "email": "louvel.mathieu@gmail.com"
+        }
+    ],
+    "require": {
+        "paquettg/php-html-parser": "^3.1"
+    }
+}
