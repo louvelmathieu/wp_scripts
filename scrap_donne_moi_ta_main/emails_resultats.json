@@ -1,0 +1,2463 @@
+{
+    "date": "2026-02-12 15:08:39",
+    "stats": {
+        "total_urls": 323,
+        "sites_with_emails": 239,
+        "found_on_alternative_pages": 78,
+        "errors": 14,
+        "total_unique_emails": 292
+    },
+    "emails": [
+        "%20contact@lheure-doree.fr",
+        "%20contact@receptionelles.com",
+        "%20hello@amarildine.com",
+        "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+        "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+        "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com",
+        "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+        "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+        "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+        "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+        "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+        "8c4075d5481d476e945486754f783364@sentry.io",
+        "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+        "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+        "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+        "adrianamoraisphotography@gmail.com",
+        "agathetcolette@gmail.com",
+        "alexandra@graine-de-coton.com",
+        "amkryukov@gmail.com",
+        "anouck@sayido.fr",
+        "anthony@yeswebloom.com",
+        "apparenceforevent@gmail.com",
+        "aromatiquefleuriste@gmail.com",
+        "artemisia@wanadoo.fr",
+        "artmaniafleur@gmail.com",
+        "atelier.elsagary@gmail.com",
+        "aurelia.c.photographies@gmail.com",
+        "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
+        "balthus.accordsdivins@gmail.com",
+        "belesprit.photographie@gmail.com",
+        "bienvenue@lorangeriedumanoir.com",
+        "bienvenue@manoirsaintemarie.fr",
+        "blandine.deroche@gmail.com",
+        "bonjour@lesombelles.com",
+        "bonjour@maison-nans.fr",
+        "bonjour@mariage-etc.com",
+        "brindevanillepatisserie@gmail.com",
+        "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+        "c3sinteractive@gmail.com",
+        "cecile.demonvallier@saveyourdate.fr",
+        "celine.ceremonies@gmail.com",
+        "celinezed.photo@gmail.com",
+        "cestici@hotmail.com",
+        "charlene@letandemdesdemoiselles.com",
+        "charlotte@izii-inspirationsjolies.com",
+        "charlotte@lesmariesphotographies.fr",
+        "cheveuxdange66@gmail.com",
+        "chloe@latelierdhiris.fr",
+        "clara-dv@hotmail.fr",
+        "claramartigny.photographie@gmail.com",
+        "clemenceduboisphotographies@gmail.com",
+        "contact.bowandcomariage@gmail.com",
+        "contact.burdimilion@gmail.com",
+        "contact.chateaufajac@gmail.com",
+        "contact.instantcocktail@gmail.com",
+        "contact.kaligrafia@gmail.com",
+        "contact@ameleventparis.com",
+        "contact@ameliedwedding.com",
+        "contact@amethik.com",
+        "contact@annoncesdentelle.fr",
+        "contact@atelier-swan.com",
+        "contact@atelieralexandrafabbri.com",
+        "contact@augustevents.fr",
+        "contact@baptistehauville.com",
+        "contact@benaproduction.com",
+        "contact@bonjour-suzanne.fr",
+        "contact@bullesetconfettis.fr",
+        "contact@capturelife.fr",
+        "contact@celebrerlavie.com",
+        "contact@charlottedo.fr",
+        "contact@comuneorchidee.com",
+        "contact@coquelicotte.fr",
+        "contact@corneloup-paris.fr",
+        "contact@cymbeline.com",
+        "contact@d-we.fr",
+        "contact@damouretdevenements.fr",
+        "contact@dans-ma-tribu.fr",
+        "contact@debocollection.com",
+        "contact@domainedepetiosse.com",
+        "contact@eirinphotography.com",
+        "contact@enjoy-evenements.fr",
+        "contact@etsionsemariait.com",
+        "contact@fannyauer.com",
+        "contact@florentcattelain.com",
+        "contact@gwenaellemichels.com",
+        "contact@imaginaridesign.fr",
+        "contact@jaimemarobe.com",
+        "contact@jodieatelier.fr",
+        "contact@joker-artifices.com",
+        "contact@jourjetcie.com",
+        "contact@juliecostet.com",
+        "contact@kaacouture.com",
+        "contact@lafabriqueamariage.fr",
+        "contact@lamaisonchanteclair.fr",
+        "contact@lamaleta.fr",
+        "contact@lapieceur.com",
+        "contact@lartquipousse.com",
+        "contact@latelierdunsouhait.fr",
+        "contact@lauraleclairdelord.com",
+        "contact@lauriane-lespinasse.fr",
+        "contact@lebonheurcommenceici.com",
+        "contact@leclosvegetal.com",
+        "contact@lecomptoirdubonheur.com",
+        "contact@lehangarlocations.com",
+        "contact@lesateliersdulux.fr",
+        "contact@lesdeuxoursons.com",
+        "contact@lesjoyauxpurs.com",
+        "contact@letandemdesdemoiselles.com",
+        "contact@lheure-doree.fr",
+        "contact@loispoch.com",
+        "contact@loveisall-events.com",
+        "contact@madame-etincelle.fr",
+        "contact@madecochic.com",
+        "contact@mademoiselle-dit-oui.fr",
+        "contact@madeorganisation.com",
+        "contact@mail.com",
+        "contact@maldemephotographe.fr",
+        "contact@manal.fr",
+        "contact@manalparis.com",
+        "contact@margauxgatti.fr",
+        "contact@mariage-a-soie.fr",
+        "contact@mariedesaunay.fr",
+        "contact@marielp.com",
+        "contact@marleneberthelot.com",
+        "contact@maudbonnard.com",
+        "contact@mixnight.net",
+        "contact@my-evjf.com",
+        "contact@myevjf.fr",
+        "contact@mygreenevent.fr",
+        "contact@nicolasterraes.com",
+        "contact@nympheakinds.fr",
+        "contact@ohmygirls-events.com",
+        "contact@ouienprovence.com",
+        "contact@pantaiaevents.com",
+        "contact@pantaieevents.com",
+        "contact@photographybychloe.com",
+        "contact@pierregobled.com",
+        "contact@poppyetdaisy.fr",
+        "contact@pour-loccasion.fr",
+        "contact@prestashop.com",
+        "contact@promessegraphique.com",
+        "contact@prune-wedding.fr",
+        "contact@receptionelles.com",
+        "contact@reveriesetbois.fr",
+        "contact@roudouic.com",
+        "contact@sepia-wedding.fr",
+        "contact@silvenehedon.com",
+        "contact@sophie-brioudes.com",
+        "contact@sylviacalmet.com",
+        "contact@thierrynade.fr",
+        "contact@unio-preparation.com",
+        "contact@vrsurmesure.fr",
+        "contact@whole.fr",
+        "contact@www.lafabriqueamariage.fr",
+        "coralie.lescieux@gmail.com",
+        "corinne@petite-fleur.fr",
+        "dancepoliceman@gmail.com",
+        "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+        "default@osm.org",
+        "delamourdanslair.evenements@gmail.com",
+        "delphine@elleetnous.com",
+        "dion.celine@silsuffisaitdaimer.com",
+        "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+        "effetnoeudpap@gmail.com",
+        "elise.julliard@gmail.com",
+        "elodie@lilaswood.com",
+        "elodie@organisation-dday.com",
+        "evamartinez.photographe@gmail.com",
+        "example@mail.com",
+        "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
+        "fannycalligraphie@gmail.com",
+        "francoislescieux@gmail.com",
+        "harmoniephotographyparis@gmail.com",
+        "hello@adrianamoraisphotography.com",
+        "hello@aeternam-event.com",
+        "hello@alice-marty.com",
+        "hello@aneiaevents.com",
+        "hello@blossomevents-erika.com",
+        "hello@boldaslove-weddings.fr",
+        "hello@boumetc.fr",
+        "hello@elielle.fr",
+        "hello@lafabriquedesinstants.com",
+        "hello@lanadra.co",
+        "hello@lejardindaudrey.fr",
+        "hello@lesbandits.fr",
+        "hello@lesdemoisellesevent.com",
+        "hello@marcribis.com",
+        "hello@nuancesfactory.fr",
+        "hello@rfuenzalida.com",
+        "hello@saveyourdate.fr",
+        "hello@septfevrier.com",
+        "hello@the-quirky.com",
+        "hello@trentieme-etage.com",
+        "hello@yeswebloom.com",
+        "hello@zenlove.com",
+        "hello@zenlove.io",
+        "helloadeuxmains@gmail.com",
+        "hellovillaaugustine@gmail.com",
+        "help@petitbambou.com",
+        "hoshilisa@gmail.com",
+        "human.ressources@cymbeline.com",
+        "idealisashop@gmail.com",
+        "idyle.weddingplanner@gmail.com",
+        "impallari@gmail.com",
+        "info@belleaurore.fr",
+        "info@lisadawn.co.uk",
+        "info@loscaballerosweddings.com",
+        "info@ndiscovered.com",
+        "info@petalesdeprovence.eu",
+        "info@phaedraevents.gr",
+        "info@sartistphotography.com",
+        "info@soufianezaidi.com",
+        "info@studio-ap2c.com",
+        "infos@dansetousstyles.com",
+        "insieme.qoya@gmail.com",
+        "jean.dupont@gmail.com",
+        "julien@elleetnous.com",
+        "justinelegall@ecumeevents.com",
+        "kywwie.graphisme@gmail.com",
+        "ladumatelier@gmail.com",
+        "lareinerit@gmail.com",
+        "lauracbphotographie@gmail.com",
+        "laurinebailly.pro@gmail.com",
+        "leclairdelord.laura@gmail.com",
+        "lepanierderachel@gmail.com",
+        "letstalk@bymatilda.pt",
+        "license@prestashop.com",
+        "lm@lauremariage.com",
+        "lucie@lapetiteetincelleevent.fr",
+        "maloe@lyloomaloe.com",
+        "marie-clementine@letsrockwedding.com",
+        "marie@mariage-etc.com",
+        "mathilde.legars@gmail.com",
+        "mathilde@mathilde-marie.com",
+        "mathildebphotography@gmail.com",
+        "matierepremierelatelier@gmail.com",
+        "matt@pixelspread.com",
+        "mbpixphoto@gmail.com",
+        "melanie@boumetc.fr",
+        "merylmontagne@hotmail.fr",
+        "mestiteslilis@contact.com",
+        "nadia@denuancesetdeglamour.fr",
+        "nasandcosevents@gmail.com",
+        "nebbia@nebbiastudio.com",
+        "nicolas@renauld-photographie.com",
+        "nicolas@renauld-photographie.fr",
+        "noeldoiziphotographie@gmail.com",
+        "notifications@surecart.com",
+        "nympheakindsmua@hotmail.com",
+        "ouimaperle@gmail.com",
+        "ouriel@benaproduction.com",
+        "patisserie@maisongelis.fr",
+        "pbagnpg@yvynfoburzr.se",
+        "photo@vincentmontagne.com",
+        "photobooth.locations@gmail.com",
+        "pondicheriweddings@gmail.com",
+        "presse@lafabriqueasachets.com",
+        "proyectoweber+mickaelbarbier.fr@gmail.com",
+        "recrutementameleventparis@gmail.com",
+        "reservation@laurajaffret.com",
+        "retours@jaimemarobe.com",
+        "ribismarc@gmail.com",
+        "riverfabric@mail.fr",
+        "rosefushiaphotographie@gmail.com",
+        "sbj.decoration@gmail.com",
+        "sc.clemence@gmail.com",
+        "scclemence@orange.fr",
+        "service.client@flore-et-zephyr.com",
+        "service.client@ongi-ceremonie.com",
+        "skateryna@ymail.com",
+        "solene@qodeinteractive.com",
+        "storybyludi@gmail.com",
+        "streetfocusphotography@gmail.com",
+        "support@blushfashion.boutique",
+        "support@qodeinteractive.com",
+        "sweetlifeevents.am@gmail.com",
+        "team@atelierlilac.com",
+        "tony@ruraweb.fr",
+        "tristan.perraudussel@icloud.com",
+        "tropicalia.papeterie@gmail.com",
+        "u0022cheveuxdange66@gmail.com",
+        "ulrikephotography@gmail.com",
+        "unpetitmot@charlotteviguier.fr",
+        "utilisateur@domaine.com",
+        "vasb@ynpebvkqrfpunzcf.se",
+        "violette@berlingot.fr",
+        "vivancia-events@outlook.fr",
+        "votre@adresse.email",
+        "wedays.event@gmail.com",
+        "wildweddingfestival@gmail.com",
+        "yann@ofskinandsouls.com",
+        "zeiphotographie1@gmail.com"
+    ],
+    "details": {
+        "http://balthusaccordsdivins.fr/": {
+            "emails": [
+                "balthus.accordsdivins@gmail.com"
+            ],
+            "source": "http://balthusaccordsdivins.fr/",
+            "pages_checked": 1
+        },
+        "http://debocollection.com/": {
+            "emails": [
+                "contact@debocollection.com"
+            ],
+            "source": "http://debocollection.com/",
+            "pages_checked": 1
+        },
+        "http://www.agathetcolette.com/": {
+            "emails": [
+                "agathetcolette@gmail.com",
+                "artemisia@wanadoo.fr"
+            ],
+            "source": "http://www.agathetcolette.com/",
+            "pages_checked": 1
+        },
+        "http://www.le-mariage-des-marioche.fr/": {
+            "emails": [
+                "blandine.deroche@gmail.com"
+            ],
+            "source": "http://www.le-mariage-des-marioche.fr/",
+            "pages_checked": 1
+        },
+        "http://www.loveisfresh.com/a-propos-de-la-blogueuse/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 18
+        },
+        "https://adeuxmains-events.fr/a-propos/": {
+            "emails": [
+                "helloadeuxmains@gmail.com"
+            ],
+            "source": "https://adeuxmains-events.fr/a-propos/",
+            "pages_checked": 1
+        },
+        "https://aeternam-event.com/": {
+            "emails": [
+                "hello@aeternam-event.com"
+            ],
+            "source": "https://aeternam-event.com/",
+            "pages_checked": 1
+        },
+        "https://alice-marty.com/": {
+            "emails": [
+                "hello@alice-marty.com"
+            ],
+            "source": "https://alice-marty.com/",
+            "pages_checked": 1
+        },
+        "https://ambrosinoalisea.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://ameleventparis.fr/": {
+            "emails": [
+                "contact@ameleventparis.com",
+                "recrutementameleventparis@gmail.com"
+            ],
+            "source": "https://ameleventparis.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://ameliedwedding.com/": {
+            "emails": [
+                "contact@ameliedwedding.com"
+            ],
+            "source": "https://ameliedwedding.com/contact/",
+            "pages_checked": 2
+        },
+        "https://aneiaevents.com/": {
+            "emails": [
+                "hello@aneiaevents.com"
+            ],
+            "source": "https://aneiaevents.com/",
+            "pages_checked": 1
+        },
+        "https://angegimenez.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://aromatique-fleuriste.com/publications/": {
+            "emails": [
+                "aromatiquefleuriste@gmail.com"
+            ],
+            "source": "https://aromatique-fleuriste.com/publications/",
+            "pages_checked": 1
+        },
+        "https://artmaniafleur.fr/": {
+            "emails": [
+                "artmaniafleur@gmail.com"
+            ],
+            "source": "https://artmaniafleur.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://atelier-julie-bihler.fr/presse/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://audreycarnoy.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://augustine-mariagealacampagne.fr/": {
+            "emails": [
+                "hellovillaaugustine@gmail.com"
+            ],
+            "source": "https://augustine-mariagealacampagne.fr/contact-location-domaine/",
+            "pages_checked": 2
+        },
+        "https://aymee.com/collections/collection-chaussure-mariage": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://belesprit.fr/": {
+            "emails": [
+                "belesprit.photographie@gmail.com"
+            ],
+            "source": "https://belesprit.fr/",
+            "pages_checked": 1
+        },
+        "https://belleaurorebijoux.com/": {
+            "emails": [
+                "info@belleaurore.fr"
+            ],
+            "source": "https://belleaurorebijoux.com/pages/contact",
+            "pages_checked": 2
+        },
+        "https://belleaurorebijoux.com/pages/a-propos": {
+            "emails": [
+                "info@belleaurore.fr"
+            ],
+            "source": "https://belleaurorebijoux.com/pages/contact",
+            "pages_checked": 2
+        },
+        "https://blushfashion.boutique/pages/featured-in": {
+            "emails": [
+                "support@blushfashion.boutique"
+            ],
+            "source": "https://blushfashion.boutique/pages/about",
+            "pages_checked": 3
+        },
+        "https://boldaslove-weddings.fr/": {
+            "emails": [
+                "hello@boldaslove-weddings.fr"
+            ],
+            "source": "https://boldaslove-weddings.fr/",
+            "pages_checked": 1
+        },
+        "https://boumetc.fr/": {
+            "emails": [
+                "melanie@boumetc.fr",
+                "hello@boumetc.fr"
+            ],
+            "source": "https://boumetc.fr/",
+            "pages_checked": 1
+        },
+        "https://brindevanille.fr/": {
+            "emails": [
+                "brindevanillepatisserie@gmail.com"
+            ],
+            "source": "https://brindevanille.fr/",
+            "pages_checked": 1
+        },
+        "https://bulledevie.net/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://bullesetconfettis.fr/": {
+            "emails": [
+                "contact@bullesetconfettis.fr"
+            ],
+            "source": "https://bullesetconfettis.fr/",
+            "pages_checked": 1
+        },
+        "https://burdimilion.com/": {
+            "emails": [
+                "contact.burdimilion@gmail.com"
+            ],
+            "source": "https://burdimilion.com/contact-ceremonie-laique-mariage-bordeaux/",
+            "pages_checked": 2
+        },
+        "https://charlotteviguier.fr/": {
+            "emails": [
+                "unpetitmot@charlotteviguier.fr",
+                "example@mail.com"
+            ],
+            "source": "https://charlotteviguier.fr/contact-reservation/",
+            "pages_checked": 2
+        },
+        "https://chateaudefajac.com/": {
+            "emails": [
+                "contact.chateaufajac@gmail.com"
+            ],
+            "source": "https://chateaudefajac.com/contact/",
+            "pages_checked": 2
+        },
+        "https://cheveuxdange.webnode.fr/": {
+            "emails": [
+                "cheveuxdange66@gmail.com",
+                "u0022cheveuxdange66@gmail.com"
+            ],
+            "source": "https://cheveuxdange.webnode.fr/",
+            "pages_checked": 1
+        },
+        "https://citronpavot-traiteur.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://claramartignyphotographie.fr/": {
+            "emails": [
+                "claramartigny.photographie@gmail.com"
+            ],
+            "source": "https://claramartignyphotographie.fr/",
+            "pages_checked": 1
+        },
+        "https://clemencegadot.com/index.php/publications/": {
+            "emails": [],
+            "error": "HTTP 404",
+            "pages_checked": 15
+        },
+        "https://cmeventcoaching.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://corneloup-paris.fr/": {
+            "emails": [
+                "contact@corneloup-paris.fr"
+            ],
+            "source": "https://corneloup-paris.fr/",
+            "pages_checked": 1
+        },
+        "https://cymbeline.com/revuedepresse/la-soeur-de-la-mariee-fevrier-2024/": {
+            "emails": [
+                "contact@cymbeline.com",
+                "human.ressources@cymbeline.com"
+            ],
+            "source": "https://cymbeline.com/contact/",
+            "pages_checked": 2
+        },
+        "https://damouretdevenements.fr/": {
+            "emails": [
+                "contact@damouretdevenements.fr"
+            ],
+            "source": "https://damouretdevenements.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://dansetousstyles.be/": {
+            "emails": [
+                "infos@dansetousstyles.com"
+            ],
+            "source": "https://dansetousstyles.be/contact/",
+            "pages_checked": 2
+        },
+        "https://delamour-danslair.com/": {
+            "emails": [
+                "delamourdanslair.evenements@gmail.com"
+            ],
+            "source": "https://delamour-danslair.com/",
+            "pages_checked": 1
+        },
+        "https://delphineclosse.com/": {
+            "emails": [],
+            "error": "Could not resolve host: delphineclosse.com",
+            "pages_checked": 15
+        },
+        "https://ecumeevents.com/en/home/": {
+            "emails": [
+                "justinelegall@ecumeevents.com"
+            ],
+            "source": "https://ecumeevents.com/en/home/",
+            "pages_checked": 1
+        },
+        "https://effetnoeudpap.com/pages/on-parle-de-nous": {
+            "emails": [
+                "effetnoeudpap@gmail.com"
+            ],
+            "source": "https://effetnoeudpap.com/pages/on-parle-de-nous",
+            "pages_checked": 1
+        },
+        "https://eirinphotography.com/en/": {
+            "emails": [
+                "contact@eirinphotography.com"
+            ],
+            "source": "https://eirinphotography.com/en/",
+            "pages_checked": 1
+        },
+        "https://eleonoregarat.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://elsagary.fr/": {
+            "emails": [
+                "atelier.elsagary@gmail.com"
+            ],
+            "source": "https://elsagary.fr/",
+            "pages_checked": 1
+        },
+        "https://elvengardenflower.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://encre-les-lignes.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://enjoy-evenements.fr/": {
+            "emails": [
+                "contact@enjoy-evenements.fr"
+            ],
+            "source": "https://enjoy-evenements.fr/",
+            "pages_checked": 1
+        },
+        "https://enpetitcomite76.fr/mes-realisations-266/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://etsionsemariait.com/": {
+            "emails": [
+                "contact@etsionsemariait.com"
+            ],
+            "source": "https://etsionsemariait.com/",
+            "pages_checked": 1
+        },
+        "https://evamartinez.fr/": {
+            "emails": [
+                "evamartinez.photographe@gmail.com"
+            ],
+            "source": "https://evamartinez.fr/",
+            "pages_checked": 1
+        },
+        "https://evjf.org/my-evjf-presse/": {
+            "emails": [
+                "contact@my-evjf.com",
+                "contact@myevjf.fr"
+            ],
+            "source": "https://evjf.org/contact/",
+            "pages_checked": 2
+        },
+        "https://faire-part-selection.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://fannycalligraphie.com/presse/": {
+            "emails": [
+                "fannycalligraphie@gmail.com"
+            ],
+            "source": "https://fannycalligraphie.com/presse/",
+            "pages_checked": 1
+        },
+        "https://gael-hidalgo.com/": {
+            "emails": [
+                "info@ndiscovered.com",
+                "amkryukov@gmail.com",
+                "matt@pixelspread.com",
+                "impallari@gmail.com",
+                "hello@rfuenzalida.com"
+            ],
+            "source": "https://gael-hidalgo.com/",
+            "pages_checked": 1
+        },
+        "https://harmoniephotography.fr/infos/": {
+            "emails": [
+                "harmoniephotographyparis@gmail.com"
+            ],
+            "source": "https://harmoniephotography.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://hocdie.com/wedding-planner-toulouse/": {
+            "emails": [],
+            "error": "Could not resolve host: hocdie.com",
+            "pages_checked": 15
+        },
+        "https://idyle-weddingplanner.com/": {
+            "emails": [
+                "idyle.weddingplanner@gmail.com"
+            ],
+            "source": "https://idyle-weddingplanner.com/contact-rendez-vous-decouverte/",
+            "pages_checked": 2
+        },
+        "https://ilkeys.fr/": {
+            "emails": [],
+            "error": "HTTP 403",
+            "pages_checked": 15
+        },
+        "https://imaginaridesign.fr/": {
+            "emails": [
+                "contact@imaginaridesign.fr"
+            ],
+            "source": "https://imaginaridesign.fr/",
+            "pages_checked": 1
+        },
+        "https://ingridthierry.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://insiemeceremonies.com/": {
+            "emails": [
+                "insieme.qoya@gmail.com"
+            ],
+            "source": "https://insiemeceremonies.com/",
+            "pages_checked": 1
+        },
+        "https://instant-cocktail.com/": {
+            "emails": [
+                "contact.instantcocktail@gmail.com"
+            ],
+            "source": "https://instant-cocktail.com/",
+            "pages_checked": 1
+        },
+        "https://izii-inspirationsjolies.com/parutions-presse/": {
+            "emails": [
+                "charlotte@izii-inspirationsjolies.com"
+            ],
+            "source": "https://izii-inspirationsjolies.com/contact/",
+            "pages_checked": 2
+        },
+        "https://jourjetcie.com/": {
+            "emails": [
+                "contact@jourjetcie.com"
+            ],
+            "source": "https://jourjetcie.com/",
+            "pages_checked": 1
+        },
+        "https://kaligrafia.fr/": {
+            "emails": [
+                "contact.kaligrafia@gmail.com"
+            ],
+            "source": "https://kaligrafia.fr/contact-kaligrafia/",
+            "pages_checked": 3
+        },
+        "https://katerynaphotos.com/a-propos/": {
+            "emails": [
+                "skateryna@ymail.com"
+            ],
+            "source": "https://katerynaphotos.com/contact/",
+            "pages_checked": 2
+        },
+        "https://kywwiefilms.fr/": {
+            "emails": [
+                "kywwie.graphisme@gmail.com"
+            ],
+            "source": "https://kywwiefilms.fr/",
+            "pages_checked": 1
+        },
+        "https://la-reine-rit.com/": {
+            "emails": [
+                "lareinerit@gmail.com"
+            ],
+            "source": "https://la-reine-rit.com/",
+            "pages_checked": 1
+        },
+        "https://la-seve.fr/a-propos/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://lacasaflorale.fr/": {
+            "emails": [
+                "lepanierderachel@gmail.com"
+            ],
+            "source": "https://lacasaflorale.fr/",
+            "pages_checked": 1
+        },
+        "https://ladum-atelier.com/odelia-maxime": {
+            "emails": [
+                "ladumatelier@gmail.com"
+            ],
+            "source": "https://ladum-atelier.com/contact",
+            "pages_checked": 2
+        },
+        "https://lafabriqueasachets.com/espace-presse-partenariats/": {
+            "emails": [
+                "presse@lafabriqueasachets.com"
+            ],
+            "source": "https://lafabriqueasachets.com/espace-presse-partenariats/",
+            "pages_checked": 1
+        },
+        "https://lafabriquedesinstants.com/": {
+            "emails": [
+                "hello@lafabriquedesinstants.com"
+            ],
+            "source": "https://lafabriquedesinstants.com/contact/",
+            "pages_checked": 2
+        },
+        "https://lamaisonchanteclair.fr/": {
+            "emails": [
+                "contact@lamaisonchanteclair.fr"
+            ],
+            "source": "https://lamaisonchanteclair.fr/",
+            "pages_checked": 1
+        },
+        "https://lanadra.co/": {
+            "emails": [
+                "hello@lanadra.co"
+            ],
+            "source": "https://lanadra.co/",
+            "pages_checked": 1
+        },
+        "https://lapetiteetincelleevent.fr/": {
+            "emails": [
+                "lucie@lapetiteetincelleevent.fr"
+            ],
+            "source": "https://lapetiteetincelleevent.fr/",
+            "pages_checked": 1
+        },
+        "https://lapieceur.com/": {
+            "emails": [
+                "contact@lapieceur.com"
+            ],
+            "source": "https://lapieceur.com/",
+            "pages_checked": 1
+        },
+        "https://lartquipousse.com/presse/": {
+            "emails": [
+                "contact@lartquipousse.com"
+            ],
+            "source": "https://lartquipousse.com/contact-fleuriste-sanary/",
+            "pages_checked": 2
+        },
+        "https://latelierbleuet.com/": {
+            "emails": [],
+            "error": "Could not resolve host: latelierbleuet.com",
+            "pages_checked": 15
+        },
+        "https://latelierdunsouhait.fr/2018/01/03/presse/": {
+            "emails": [
+                "contact@latelierdunsouhait.fr"
+            ],
+            "source": "https://latelierdunsouhait.fr/2018/01/03/presse/",
+            "pages_checked": 1
+        },
+        "https://lauracbphotographie.com/": {
+            "emails": [
+                "lauracbphotographie@gmail.com"
+            ],
+            "source": "https://lauracbphotographie.com/",
+            "pages_checked": 1
+        },
+        "https://laurajaffret.com/": {
+            "emails": [
+                "reservation@laurajaffret.com"
+            ],
+            "source": "https://laurajaffret.com/contact/",
+            "pages_checked": 3
+        },
+        "https://lauralericheevents.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://lauremariage.com/": {
+            "emails": [
+                "lm@lauremariage.com"
+            ],
+            "source": "https://lauremariage.com/contact",
+            "pages_checked": 2
+        },
+        "https://laurinebailly.fr/": {
+            "emails": [
+                "laurinebailly.pro@gmail.com"
+            ],
+            "source": "https://laurinebailly.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://lebonheurcommenceici.com/": {
+            "emails": [
+                "contact@lebonheurcommenceici.com"
+            ],
+            "source": "https://lebonheurcommenceici.com/",
+            "pages_checked": 1
+        },
+        "https://leclosvegetal.com/": {
+            "emails": [
+                "contact@leclosvegetal.com"
+            ],
+            "source": "https://leclosvegetal.com/",
+            "pages_checked": 1
+        },
+        "https://lejardindaudrey.com/en/event-floral-designer-in-paris/": {
+            "emails": [
+                "hello@lejardindaudrey.fr"
+            ],
+            "source": "https://lejardindaudrey.com/en/event-floral-designer-in-paris/",
+            "pages_checked": 1
+        },
+        "https://lesjoyauxpurs.com/": {
+            "emails": [
+                "contact@lesjoyauxpurs.com"
+            ],
+            "source": "https://lesjoyauxpurs.com/pages/contact",
+            "pages_checked": 2
+        },
+        "https://lesmariesphotographies.fr/": {
+            "emails": [
+                "charlotte@lesmariesphotographies.fr"
+            ],
+            "source": "https://lesmariesphotographies.fr/contact-photographe-mariage-savoie/",
+            "pages_checked": 2
+        },
+        "https://lespremicesdem.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://lheure-doree.fr/": {
+            "emails": [
+                "contact@lheure-doree.fr",
+                "%20contact@lheure-doree.fr"
+            ],
+            "source": "https://lheure-doree.fr/",
+            "pages_checked": 1
+        },
+        "https://lilasboheme.fr/": {
+            "emails": [
+                "pbagnpg@yvynfoburzr.se"
+            ],
+            "source": "https://lilasboheme.fr/formulaire-contact/",
+            "pages_checked": 2
+        },
+        "https://lorangeriedumanoir.com/": {
+            "emails": [
+                "bienvenue@lorangeriedumanoir.com"
+            ],
+            "source": "https://lorangeriedumanoir.com/",
+            "pages_checked": 1
+        },
+        "https://loscaballerosweddings.com/": {
+            "emails": [
+                "info@loscaballerosweddings.com"
+            ],
+            "source": "https://loscaballerosweddings.com/",
+            "pages_checked": 1
+        },
+        "https://madame-etincelle.fr/": {
+            "emails": [
+                "contact@madame-etincelle.fr"
+            ],
+            "source": "https://madame-etincelle.fr/contact",
+            "pages_checked": 2
+        },
+        "https://mademoiselle-dit-oui.fr/": {
+            "emails": [
+                "contact@mademoiselle-dit-oui.fr"
+            ],
+            "source": "https://mademoiselle-dit-oui.fr/",
+            "pages_checked": 1
+        },
+        "https://madeorganisation.com/": {
+            "emails": [
+                "contact@madeorganisation.com"
+            ],
+            "source": "https://madeorganisation.com/",
+            "pages_checked": 1
+        },
+        "https://maisongelis.fr/": {
+            "emails": [
+                "patisserie@maisongelis.fr",
+                "default@osm.org"
+            ],
+            "source": "https://maisongelis.fr/",
+            "pages_checked": 1
+        },
+        "https://maitebailleul.com/presse/": {
+            "emails": [],
+            "error": "HTTP 404",
+            "pages_checked": 15
+        },
+        "https://manalparis.com/pages/presse": {
+            "emails": [
+                "contact@manal.fr",
+                "contact@manalparis.com"
+            ],
+            "source": "https://manalparis.com/pages/presse",
+            "pages_checked": 1
+        },
+        "https://manoirsaintemarie.fr/les-partenaires/": {
+            "emails": [
+                "bienvenue@manoirsaintemarie.fr"
+            ],
+            "source": "https://manoirsaintemarie.fr/les-partenaires/",
+            "pages_checked": 1
+        },
+        "https://mariedesaunay.fr/": {
+            "emails": [
+                "contact@mariedesaunay.fr"
+            ],
+            "source": "https://mariedesaunay.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://marielp.com/": {
+            "emails": [
+                "contact@marielp.com"
+            ],
+            "source": "https://marielp.com/",
+            "pages_checked": 1
+        },
+        "https://marineszczepaniak.com/blog/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://masaccessoires.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://mathilde-marie.com/presse/": {
+            "emails": [
+                "mathilde@mathilde-marie.com"
+            ],
+            "source": "https://mathilde-marie.com/contact/",
+            "pages_checked": 3
+        },
+        "https://mathildebphotography.com/fr": {
+            "emails": [
+                "mathildebphotography@gmail.com"
+            ],
+            "source": "https://mathildebphotography.com/fr",
+            "pages_checked": 1
+        },
+        "https://merylmphotographie.com/": {
+            "emails": [
+                "merylmontagne@hotmail.fr"
+            ],
+            "source": "https://merylmphotographie.com/",
+            "pages_checked": 1
+        },
+        "https://mickaelbarbier.fr/": {
+            "emails": [
+                "proyectoweber+mickaelbarbier.fr@gmail.com"
+            ],
+            "source": "https://mickaelbarbier.fr/contact",
+            "pages_checked": 2
+        },
+        "https://mygreenevent.fr/": {
+            "emails": [
+                "contact@mygreenevent.fr"
+            ],
+            "source": "https://mygreenevent.fr/",
+            "pages_checked": 1
+        },
+        "https://nasandcosevents.com/": {
+            "emails": [
+                "dion.celine@silsuffisaitdaimer.com",
+                "nasandcosevents@gmail.com"
+            ],
+            "source": "https://nasandcosevents.com/contact-organisation-mariage-wedding-planners/",
+            "pages_checked": 2
+        },
+        "https://nicolasterraes.com/partenaires/": {
+            "emails": [
+                "contact@nicolasterraes.com"
+            ],
+            "source": "https://nicolasterraes.com/partenaires/",
+            "pages_checked": 1
+        },
+        "https://noeldoiziphotographie.fr/a-propos-de-moi/": {
+            "emails": [
+                "noeldoiziphotographie@gmail.com"
+            ],
+            "source": "https://noeldoiziphotographie.fr/a-propos-de-moi/",
+            "pages_checked": 1
+        },
+        "https://o-dela-des-fleurs.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://officiant-ceremonie.fr/temoignages-galerie/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://ohlescoeurs-deco.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://ohmygirls-events.com/": {
+            "emails": [
+                "contact@ohmygirls-events.com"
+            ],
+            "source": "https://ohmygirls-events.com/",
+            "pages_checked": 1
+        },
+        "https://organisation-dday.com/presse/": {
+            "emails": [
+                "elodie@organisation-dday.com"
+            ],
+            "source": "https://organisation-dday.com/presse/",
+            "pages_checked": 1
+        },
+        "https://photographie.chloeldn.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://pierrefrogerfilms.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://pierregobled.com/": {
+            "emails": [
+                "contact@pierregobled.com"
+            ],
+            "source": "https://pierregobled.com/",
+            "pages_checked": 1
+        },
+        "https://poppyblossomphoto.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://poppyetdaisy.fr/": {
+            "emails": [
+                "contact@poppyetdaisy.fr"
+            ],
+            "source": "https://poppyetdaisy.fr/",
+            "pages_checked": 1
+        },
+        "https://promessegraphique.com/": {
+            "emails": [
+                "contact@promessegraphique.com"
+            ],
+            "source": "https://promessegraphique.com/",
+            "pages_checked": 1
+        },
+        "https://provence-emoi.com/by-the-sea": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://prune-wedding.fr/": {
+            "emails": [
+                "contact@prune-wedding.fr"
+            ],
+            "source": "https://prune-wedding.fr/",
+            "pages_checked": 1
+        },
+        "https://recordyou.fr/": {
+            "emails": [
+                "francoislescieux@gmail.com"
+            ],
+            "source": "https://recordyou.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://renauld-photographie.com/": {
+            "emails": [
+                "nicolas@renauld-photographie.com",
+                "nicolas@renauld-photographie.fr"
+            ],
+            "source": "https://renauld-photographie.com/",
+            "pages_checked": 1
+        },
+        "https://reveriesetbois.fr/": {
+            "emails": [
+                "contact@reveriesetbois.fr"
+            ],
+            "source": "https://reveriesetbois.fr/",
+            "pages_checked": 1
+        },
+        "https://rosalyne-creations.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://rosefushiaphotographie.com/publications/": {
+            "emails": [
+                "rosefushiaphotographie@gmail.com"
+            ],
+            "source": "https://rosefushiaphotographie.com/contact/",
+            "pages_checked": 3
+        },
+        "https://sandra-berete.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://sayido.fr/": {
+            "emails": [
+                "anouck@sayido.fr"
+            ],
+            "source": "https://sayido.fr/",
+            "pages_checked": 1
+        },
+        "https://septfevrier.com/": {
+            "emails": [
+                "hello@septfevrier.com"
+            ],
+            "source": "https://septfevrier.com/contact-mariages/",
+            "pages_checked": 2
+        },
+        "https://silvenehedon.com/univers/on-parle-de-nous/": {
+            "emails": [
+                "contact@silvenehedon.com"
+            ],
+            "source": "https://silvenehedon.com/univers/on-parle-de-nous/",
+            "pages_checked": 1
+        },
+        "https://soniablanc.com/revue-de-presse/": {
+            "emails": [],
+            "error": "Operation timed out after 10000 milliseconds with 0 bytes received",
+            "pages_checked": 15
+        },
+        "https://sophie-brioudes.com/": {
+            "emails": [
+                "contact@sophie-brioudes.com"
+            ],
+            "source": "https://sophie-brioudes.com/contact/",
+            "pages_checked": 2
+        },
+        "https://soufianezaidi.com/": {
+            "emails": [
+                "info@soufianezaidi.com"
+            ],
+            "source": "https://soufianezaidi.com/",
+            "pages_checked": 1
+        },
+        "https://sous-le-charme.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://storybyludi.fr/wedding-planner-provence/": {
+            "emails": [
+                "storybyludi@gmail.com"
+            ],
+            "source": "https://storybyludi.fr/wedding-planner-provence/",
+            "pages_checked": 1
+        },
+        "https://streetfocus.fr/a-propos/": {
+            "emails": [
+                "streetfocusphotography@gmail.com"
+            ],
+            "source": "https://streetfocus.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://sylviacalmet.com/": {
+            "emails": [
+                "contact@sylviacalmet.com"
+            ],
+            "source": "https://sylviacalmet.com/",
+            "pages_checked": 1
+        },
+        "https://the-quirky.com/infos/": {
+            "emails": [
+                "hello@the-quirky.com"
+            ],
+            "source": "https://the-quirky.com/infos/",
+            "pages_checked": 1
+        },
+        "https://thememories.fr/": {
+            "emails": [
+                "contact.bowandcomariage@gmail.com"
+            ],
+            "source": "https://www.pondicheri-weddings.fr/a-propos/mariage-ecoresponsable/",
+            "pages_checked": 4
+        },
+        "https://thewitness.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://thierrynade.fr/": {
+            "emails": [
+                "contact@thierrynade.fr"
+            ],
+            "source": "https://thierrynade.fr/",
+            "pages_checked": 1
+        },
+        "https://trentieme-etage.com/": {
+            "emails": [
+                "hello@trentieme-etage.com"
+            ],
+            "source": "https://trentieme-etage.com/",
+            "pages_checked": 1
+        },
+        "https://tropicaliapapeterie.com/": {
+            "emails": [
+                "tropicalia.papeterie@gmail.com"
+            ],
+            "source": "https://tropicaliapapeterie.com/",
+            "pages_checked": 1
+        },
+        "https://velvetrendezvous.fr/nos-realisations/medias/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://vincentmontagne.com/about-2/": {
+            "emails": [
+                "photo@vincentmontagne.com"
+            ],
+            "source": "https://vincentmontagne.com/about-2/",
+            "pages_checked": 1
+        },
+        "https://vivancia-events.fr/": {
+            "emails": [
+                "vivancia-events@outlook.fr"
+            ],
+            "source": "https://vivancia-events.fr/",
+            "pages_checked": 1
+        },
+        "https://vrsurmesure.fr/": {
+            "emails": [
+                "contact@vrsurmesure.fr"
+            ],
+            "source": "https://vrsurmesure.fr/",
+            "pages_checked": 1
+        },
+        "https://wedays.com/blog-mariage/": {
+            "emails": [
+                "wedays.event@gmail.com"
+            ],
+            "source": "https://wedays.com/blog-mariage/",
+            "pages_checked": 1
+        },
+        "https://whole.fr/pages/parutions-press-releases": {
+            "emails": [
+                "contact@whole.fr"
+            ],
+            "source": "https://whole.fr/pages/parutions-press-releases",
+            "pages_checked": 1
+        },
+        "https://www.adeline-mariage.com/": {
+            "emails": [
+                "jean.dupont@gmail.com"
+            ],
+            "source": "https://www.adeline-mariage.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.adrianamoraisphotography.com/": {
+            "emails": [
+                "hello@adrianamoraisphotography.com",
+                "adrianamoraisphotography@gmail.com"
+            ],
+            "source": "https://www.adrianamoraisphotography.com/",
+            "pages_checked": 1
+        },
+        "https://www.agathehelleux.com/prestations": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.amarildine.com/": {
+            "emails": [
+                "%20hello@amarildine.com"
+            ],
+            "source": "https://www.amarildine.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.amethik.com/": {
+            "emails": [
+                "contact@amethik.com"
+            ],
+            "source": "https://www.amethik.com/",
+            "pages_checked": 1
+        },
+        "https://www.ana-des-cabanasses.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.annoncesdentelle.fr/": {
+            "emails": [
+                "contact@annoncesdentelle.fr"
+            ],
+            "source": "https://www.annoncesdentelle.fr/",
+            "pages_checked": 1
+        },
+        "https://www.apparenceforevent.com/": {
+            "emails": [
+                "apparenceforevent@gmail.com"
+            ],
+            "source": "https://www.apparenceforevent.com/",
+            "pages_checked": 1
+        },
+        "https://www.apres-lebip.ch/fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.artetfacts.com/actualites.html": {
+            "emails": [
+                "license@prestashop.com",
+                "contact@prestashop.com"
+            ],
+            "source": "https://www.artetfacts.com/actualites.html",
+            "pages_checked": 1
+        },
+        "https://www.atelier-douceurs-caroline.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.atelier-swan.com/": {
+            "emails": [
+                "contact@atelier-swan.com"
+            ],
+            "source": "https://www.atelier-swan.com/",
+            "pages_checked": 1
+        },
+        "https://www.atelieralexandrafabbri.com/": {
+            "emails": [
+                "contact@atelieralexandrafabbri.com"
+            ],
+            "source": "https://www.atelieralexandrafabbri.com/",
+            "pages_checked": 1
+        },
+        "https://www.atelierlilac.com/en/pages/a-propos": {
+            "emails": [
+                "team@atelierlilac.com"
+            ],
+            "source": "https://www.atelierlilac.com/en/pages/contact",
+            "pages_checked": 2
+        },
+        "https://www.audreycoppee.com/": {
+            "emails": [
+                "solene@qodeinteractive.com"
+            ],
+            "source": "https://www.audreycoppee.com/",
+            "pages_checked": 1
+        },
+        "https://www.audreyvkb.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.august-events.fr/": {
+            "emails": [
+                "contact@augustevents.fr"
+            ],
+            "source": "https://www.august-events.fr/",
+            "pages_checked": 1
+        },
+        "https://www.aureliaprado.com/en": {
+            "emails": [],
+            "error": "Could not resolve host: www.aureliaprado.com",
+            "pages_checked": 15
+        },
+        "https://www.aurored-photographie.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.baptistehauville.com/": {
+            "emails": [
+                "contact@baptistehauville.com"
+            ],
+            "source": "https://www.baptistehauville.com/",
+            "pages_checked": 1
+        },
+        "https://www.bastienanguiano.com/avis": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.benaproduction.com/mariage/on-parle-de-nous.html": {
+            "emails": [
+                "contact@benaproduction.com",
+                "ouriel@benaproduction.com"
+            ],
+            "source": "https://www.benaproduction.com/mariage/on-parle-de-nous.html",
+            "pages_checked": 1
+        },
+        "https://www.blanchefleur.com/mariages": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.blossomevents-erika.com/": {
+            "emails": [
+                "hello@blossomevents-erika.com"
+            ],
+            "source": "https://www.blossomevents-erika.com/contact1.html",
+            "pages_checked": 3
+        },
+        "https://www.bonjour-suzanne.fr/on-parle-de-nous/": {
+            "emails": [
+                "contact@bonjour-suzanne.fr"
+            ],
+            "source": "https://www.bonjour-suzanne.fr/on-parle-de-nous/",
+            "pages_checked": 1
+        },
+        "https://www.borne-photo-nantes.fr/": {
+            "emails": [
+                "photobooth.locations@gmail.com"
+            ],
+            "source": "https://www.borne-photo-nantes.fr/",
+            "pages_checked": 1
+        },
+        "https://www.c-joly.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.camillerecolin.fr/la-presse/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.capturelife.fr/": {
+            "emails": [
+                "contact@capturelife.fr"
+            ],
+            "source": "https://www.capturelife.fr/contact-photographe-video-mariage/",
+            "pages_checked": 2
+        },
+        "https://www.cecileschuhmann.com/a-propos/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.cejourunique.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.celebrerlavie.com/": {
+            "emails": [
+                "contact@celebrerlavie.com"
+            ],
+            "source": "https://www.celebrerlavie.com/",
+            "pages_checked": 1
+        },
+        "https://www.celine-ceremonies.fr/temoignages": {
+            "emails": [
+                "celine.ceremonies@gmail.com"
+            ],
+            "source": "https://www.celine-ceremonies.fr/contact",
+            "pages_checked": 2
+        },
+        "https://www.celinezed.com/about-me/": {
+            "emails": [
+                "celinezed.photo@gmail.com",
+                "jean.dupont@gmail.com"
+            ],
+            "source": "https://www.celinezed.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.cesticisallealouer.com/": {
+            "emails": [
+                "cestici@hotmail.com"
+            ],
+            "source": "https://www.cesticisallealouer.com/",
+            "pages_checked": 1
+        },
+        "https://www.charliebillie.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.charlottealaoui.com/": {
+            "emails": [],
+            "error": "error:0A000438:SSL routines::tlsv1 alert internal error",
+            "pages_checked": 15
+        },
+        "https://www.charlottedo.fr/": {
+            "emails": [
+                "contact@charlottedo.fr"
+            ],
+            "source": "https://www.charlottedo.fr/",
+            "pages_checked": 1
+        },
+        "https://www.chrissmartevent.fr/index.html": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.christellevasseur.com/blogs/la-presse-parle-de-nous/collection-2018-robes-de-mariee-bordeaux": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.cigales-petitsfours.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.clemenceduboisphotographie.com/": {
+            "emails": [
+                "clemenceduboisphotographies@gmail.com"
+            ],
+            "source": "https://www.clemenceduboisphotographie.com/",
+            "pages_checked": 1
+        },
+        "https://www.cleolebrun.fr/": {
+            "emails": [],
+            "error": "error:0A000410:SSL routines::sslv3 alert handshake failure",
+            "pages_checked": 15
+        },
+        "https://www.comuneorchidee.com/nos-partenaires/": {
+            "emails": [
+                "contact@comuneorchidee.com"
+            ],
+            "source": "https://www.comuneorchidee.com/nos-partenaires/",
+            "pages_checked": 1
+        },
+        "https://www.coquelicotte.fr/": {
+            "emails": [
+                "clara-dv@hotmail.fr",
+                "contact@coquelicotte.fr"
+            ],
+            "source": "https://www.coquelicotte.fr/",
+            "pages_checked": 1
+        },
+        "https://www.coralielescieux.com/gallery/aurea-benjamin/": {
+            "emails": [
+                "coralie.lescieux@gmail.com"
+            ],
+            "source": "https://www.coralielescieux.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.d-we.fr/": {
+            "emails": [
+                "contact@d-we.fr"
+            ],
+            "source": "https://www.d-we.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://www.dancepolice.fr/": {
+            "emails": [
+                "dancepoliceman@gmail.com"
+            ],
+            "source": "https://www.dancepolice.fr/",
+            "pages_checked": 1
+        },
+        "https://www.dans-ma-tribu.fr/": {
+            "emails": [
+                "contact@dans-ma-tribu.fr"
+            ],
+            "source": "https://www.dans-ma-tribu.fr/nous-contacter/",
+            "pages_checked": 3
+        },
+        "https://www.davidone.fr/contact": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.denuancesetdeglamour.fr/agence/": {
+            "emails": [
+                "support@qodeinteractive.com",
+                "nadia@denuancesetdeglamour.fr"
+            ],
+            "source": "https://www.denuancesetdeglamour.fr/agence/",
+            "pages_checked": 1
+        },
+        "https://www.dmk-destinationart.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.domainedepetiosse.com/domaine-landes/partenaires/": {
+            "emails": [
+                "contact@domainedepetiosse.com"
+            ],
+            "source": "https://www.domainedepetiosse.com/domaine-landes/partenaires/",
+            "pages_checked": 1
+        },
+        "https://www.dorsetdesoie.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.elielle.fr/": {
+            "emails": [
+                "hello@elielle.fr"
+            ],
+            "source": "https://www.elielle.fr/",
+            "pages_checked": 1
+        },
+        "https://www.elisejulliard-photographies.fr/": {
+            "emails": [
+                "elise.julliard@gmail.com"
+            ],
+            "source": "https://www.elisejulliard-photographies.fr/",
+            "pages_checked": 1
+        },
+        "https://www.elleaditoui.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.elleetnous.com/wedding-event-planner-in-provence/": {
+            "emails": [
+                "delphine@elleetnous.com",
+                "julien@elleetnous.com"
+            ],
+            "source": "https://www.elleetnous.com/contact-wedding-planner-provence-france/",
+            "pages_checked": 2
+        },
+        "https://www.fannyauer.com/en/about/": {
+            "emails": [
+                "contact@fannyauer.com"
+            ],
+            "source": "https://www.fannyauer.com/en/contact/",
+            "pages_checked": 2
+        },
+        "https://www.flore-et-zephyr.com/blogs/journal": {
+            "emails": [
+                "service.client@flore-et-zephyr.com"
+            ],
+            "source": "https://www.flore-et-zephyr.com/blogs/journal",
+            "pages_checked": 1
+        },
+        "https://www.florentcattelain.com/": {
+            "emails": [
+                "contact@florentcattelain.com"
+            ],
+            "source": "https://www.florentcattelain.com/contact/",
+            "pages_checked": 3
+        },
+        "https://www.florentfauqueux.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.ganza.fr/pages/revue-de-presse": {
+            "emails": [],
+            "error": "Could not resolve host: www.ganza.fr",
+            "pages_checked": 15
+        },
+        "https://www.graine-de-coton.com/category/dossier-presse/article-blog/": {
+            "emails": [
+                "alexandra@graine-de-coton.com"
+            ],
+            "source": "https://graine-de-coton.com/horaires-et-contact/",
+            "pages_checked": 2
+        },
+        "https://www.gwenaellemichels.com/parutions/": {
+            "emails": [
+                "contact@gwenaellemichels.com"
+            ],
+            "source": "https://www.gwenaellemichels.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.idea-lisa.fr/": {
+            "emails": [
+                "jean.dupont@gmail.com",
+                "idealisashop@gmail.com"
+            ],
+            "source": "https://www.idea-lisa.fr/contact-idealisa/",
+            "pages_checked": 2
+        },
+        "https://www.instant-loc.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.jaimemarobe.com/pages/presse": {
+            "emails": [
+                "contact@jaimemarobe.com",
+                "retours@jaimemarobe.com"
+            ],
+            "source": "https://www.jaimemarobe.com/pages/presse",
+            "pages_checked": 1
+        },
+        "https://www.jerometarakci.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 19
+        },
+        "https://www.jodieatelier.fr/": {
+            "emails": [
+                "contact@jodieatelier.fr"
+            ],
+            "source": "https://www.jodieatelier.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://www.joker-artifices.com/en/": {
+            "emails": [
+                "contact@joker-artifices.com"
+            ],
+            "source": "https://www.joker-artifices.com/en/",
+            "pages_checked": 1
+        },
+        "https://www.juliecostet.com/": {
+            "emails": [
+                "contact@juliecostet.com"
+            ],
+            "source": "https://www.juliecostet.com/",
+            "pages_checked": 1
+        },
+        "https://www.kaacouture.com/presse/": {
+            "emails": [
+                "contact@kaacouture.com"
+            ],
+            "source": "https://www.kaacouture.com/presse/",
+            "pages_checked": 1
+        },
+        "https://www.kokoro-berlin.com/de-fr/pages/presse-veroffentlichungen": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.lacroixdeschamps.fr/ils-parlent-de-nous/": {
+            "emails": [
+                "vasb@ynpebvkqrfpunzcf.se"
+            ],
+            "source": "https://www.lacroixdeschamps.fr/ils-parlent-de-nous/",
+            "pages_checked": 1
+        },
+        "https://www.lafabriqueamariage.fr/": {
+            "emails": [
+                "contact@www.lafabriqueamariage.fr",
+                "contact@lafabriqueamariage.fr"
+            ],
+            "source": "https://www.lafabriqueamariage.fr/",
+            "pages_checked": 1
+        },
+        "https://www.lafilleaunoeudrouge.fr/publication-web-presse-faire-part-sur-mesure-la-fille-au-noeud-rouge/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.larochelle-mariage.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.latelierdhiris.fr/": {
+            "emails": [
+                "contact@sepia-wedding.fr",
+                "chloe@latelierdhiris.fr"
+            ],
+            "source": "https://www.latelierdhiris.fr/",
+            "pages_checked": 1
+        },
+        "https://www.latelierdhiris.fr/videos/": {
+            "emails": [
+                "contact@sepia-wedding.fr",
+                "chloe@latelierdhiris.fr"
+            ],
+            "source": "https://www.latelierdhiris.fr/videos/",
+            "pages_checked": 1
+        },
+        "https://www.lauraleclairdelord.com/a-propos/": {
+            "emails": [
+                "contact@lauraleclairdelord.com",
+                "leclairdelord.laura@gmail.com"
+            ],
+            "source": "https://www.lauraleclairdelord.com/a-propos/",
+            "pages_checked": 1
+        },
+        "https://www.lauren-gabriele.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 17
+        },
+        "https://www.laurentkapelski.com/presse": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.lauriane-lespinasse.fr/": {
+            "emails": [
+                "contact@lauriane-lespinasse.fr"
+            ],
+            "source": "https://www.lauriane-lespinasse.fr/",
+            "pages_checked": 1
+        },
+        "https://www.lecomptoirdubonheur.com/": {
+            "emails": [
+                "contact@lecomptoirdubonheur.com"
+            ],
+            "source": "https://www.lecomptoirdubonheur.com/",
+            "pages_checked": 1
+        },
+        "https://www.lehangarlocations.com/": {
+            "emails": [
+                "contact@lehangarlocations.com"
+            ],
+            "source": "https://www.lehangarlocations.com/",
+            "pages_checked": 1
+        },
+        "https://www.lesateliersdulux.fr/": {
+            "emails": [
+                "contact@lesateliersdulux.fr"
+            ],
+            "source": "https://www.lesateliersdulux.fr/",
+            "pages_checked": 1
+        },
+        "https://www.lesbandits.fr/": {
+            "emails": [
+                "hello@lesbandits.fr"
+            ],
+            "source": "https://www.lesbandits.fr/",
+            "pages_checked": 1
+        },
+        "https://www.lesbeautesparis.com/": {
+            "emails": [
+                "jean.dupont@gmail.com"
+            ],
+            "source": "https://www.lesbeautesparis.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.lesdeuxoursons.com/revue-de-presse/": {
+            "emails": [
+                "contact@lesdeuxoursons.com"
+            ],
+            "source": "https://www.lesdeuxoursons.com/revue-de-presse/",
+            "pages_checked": 1
+        },
+        "https://www.lesfleursdemilijolie.fr/": {
+            "emails": [],
+            "error": "error:0A000410:SSL routines::sslv3 alert handshake failure",
+            "pages_checked": 15
+        },
+        "https://www.lesmariesdelavieenrose.com/accueil": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.lesombelles.com/": {
+            "emails": [
+                "bonjour@lesombelles.com"
+            ],
+            "source": "https://www.lesombelles.com/",
+            "pages_checked": 1
+        },
+        "https://www.letandemdesdemoiselles.fr/accueil/": {
+            "emails": [
+                "hello@lesdemoisellesevent.com",
+                "contact@letandemdesdemoiselles.com",
+                "charlene@letandemdesdemoiselles.com"
+            ],
+            "source": "https://www.letandemdesdemoiselles.fr/accueil/",
+            "pages_checked": 1
+        },
+        "https://www.letsrockwedding.com/": {
+            "emails": [
+                "marie-clementine@letsrockwedding.com"
+            ],
+            "source": "https://www.letsrockwedding.com/",
+            "pages_checked": 1
+        },
+        "https://www.lilaswood.com/": {
+            "emails": [
+                "elodie@lilaswood.com"
+            ],
+            "source": "https://www.lilaswood.com/contact/",
+            "pages_checked": 3
+        },
+        "https://www.lisadawn.co.uk/": {
+            "emails": [
+                "info@lisadawn.co.uk"
+            ],
+            "source": "https://www.lisadawn.co.uk/",
+            "pages_checked": 1
+        },
+        "https://www.lisahoshi-photographie.com/": {
+            "emails": [
+                "hoshilisa@gmail.com"
+            ],
+            "source": "https://www.lisahoshi-photographie.com/",
+            "pages_checked": 1
+        },
+        "https://www.loispoch.com/": {
+            "emails": [
+                "contact@loispoch.com"
+            ],
+            "source": "https://www.loispoch.com/",
+            "pages_checked": 1
+        },
+        "https://www.lorenzoaccardi.com/fr/about/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 20
+        },
+        "https://www.loveisall-events.com/": {
+            "emails": [
+                "contact@loveisall-events.com"
+            ],
+            "source": "https://www.loveisall-events.com/contact/",
+            "pages_checked": 3
+        },
+        "https://www.loveishappiness.f/tarifs/": {
+            "emails": [],
+            "error": "Could not resolve host: www.loveishappiness.f",
+            "pages_checked": 15
+        },
+        "https://www.lyloomaloe.com/ils-parlent-de-nous/": {
+            "emails": [
+                "maloe@lyloomaloe.com"
+            ],
+            "source": "https://www.lyloomaloe.com/ils-parlent-de-nous/",
+            "pages_checked": 1
+        },
+        "https://www.madecochic.com/": {
+            "emails": [
+                "contact@madecochic.com"
+            ],
+            "source": "https://www.madecochic.com/",
+            "pages_checked": 1
+        },
+        "https://www.maison-nans.fr/a-propos/": {
+            "emails": [
+                "bonjour@maison-nans.fr"
+            ],
+            "source": "https://www.maison-nans.fr/a-propos/",
+            "pages_checked": 1
+        },
+        "https://www.maldemephotographe.fr/": {
+            "emails": [
+                "contact@maldemephotographe.fr"
+            ],
+            "source": "https://www.maldemephotographe.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://www.marcribis.com/": {
+            "emails": [
+                "hello@marcribis.com",
+                "ribismarc@gmail.com"
+            ],
+            "source": "https://www.marcribis.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.margauxgatti.fr/": {
+            "emails": [
+                "contact@margauxgatti.fr"
+            ],
+            "source": "https://www.margauxgatti.fr/contactez-moi/",
+            "pages_checked": 3
+        },
+        "https://www.mariage-a-soie.fr/": {
+            "emails": [
+                "contact@mariage-a-soie.fr"
+            ],
+            "source": "https://www.mariage-a-soie.fr/",
+            "pages_checked": 1
+        },
+        "https://www.mariage-etc.com/en-savoir-plus.php": {
+            "emails": [
+                "bonjour@mariage-etc.com",
+                "marie@mariage-etc.com"
+            ],
+            "source": "https://www.mariage-etc.com/en-savoir-plus.php",
+            "pages_checked": 1
+        },
+        "https://www.marie-myrtille.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.marionfort.com/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.marleneberthelot.com/": {
+            "emails": [
+                "contact@marleneberthelot.com"
+            ],
+            "source": "https://www.marleneberthelot.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.mathieubonnaric.fr/": {
+            "emails": [
+                "jean.dupont@gmail.com"
+            ],
+            "source": "https://www.mathieubonnaric.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://www.matierepremierelatelier.fr/": {
+            "emails": [
+                "matierepremierelatelier@gmail.com"
+            ],
+            "source": "https://www.matierepremierelatelier.fr/",
+            "pages_checked": 1
+        },
+        "https://www.maudbonnard.com/partenaires-mariage/": {
+            "emails": [
+                "contact@maudbonnard.com",
+                "contact@mail.com"
+            ],
+            "source": "https://www.maudbonnard.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.melanie-orsini.fr": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.melaniebultez.com/": {
+            "emails": [
+                "mbpixphoto@gmail.com"
+            ],
+            "source": "https://www.melaniebultez.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.mesplusbeauxsouvenirs.com/partenaires/": {
+            "emails": [
+                "aurelia.c.photographies@gmail.com"
+            ],
+            "source": "https://www.mesplusbeauxsouvenirs.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.mestiteslilis.com/mestiteslilis-on-en-parle/": {
+            "emails": [
+                "mestiteslilis@contact.com"
+            ],
+            "source": "https://www.mestiteslilis.com/mestiteslilis-on-en-parle/",
+            "pages_checked": 1
+        },
+        "https://www.mixnight.net/a-propos/": {
+            "emails": [
+                "contact@mixnight.net"
+            ],
+            "source": "https://www.mixnight.net/a-propos/",
+            "pages_checked": 1
+        },
+        "https://www.nebbiastudio.com/": {
+            "emails": [
+                "nebbia@nebbiastudio.com"
+            ],
+            "source": "https://www.nebbiastudio.com/",
+            "pages_checked": 1
+        },
+        "https://www.noella-wonderevents.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.nuancesfactory.fr/": {
+            "emails": [
+                "hello@nuancesfactory.fr"
+            ],
+            "source": "https://www.nuancesfactory.fr/",
+            "pages_checked": 1
+        },
+        "https://www.nympheakinds.fr/": {
+            "emails": [
+                "contact@nympheakinds.fr",
+                "nympheakindsmua@hotmail.com"
+            ],
+            "source": "https://www.nympheakinds.fr/",
+            "pages_checked": 1
+        },
+        "https://www.ongi-ceremonie.be/blog/nos-partenaires/": {
+            "emails": [
+                "service.client@ongi-ceremonie.com"
+            ],
+            "source": "https://www.ongi-ceremonie.be/contact/",
+            "pages_checked": 2
+        },
+        "https://www.ot-pays-de-collonges-la-rouge.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.ouienprovence.com/": {
+            "emails": [
+                "contact@ouienprovence.com"
+            ],
+            "source": "https://www.ouienprovence.com/contact/",
+            "pages_checked": 3
+        },
+        "https://www.ouimaperle.com/": {
+            "emails": [
+                "ouimaperle@gmail.com"
+            ],
+            "source": "https://www.ouimaperle.com/",
+            "pages_checked": 1
+        },
+        "https://www.pantaiaevents.com/": {
+            "emails": [
+                "contact@pantaieevents.com",
+                "contact@pantaiaevents.com"
+            ],
+            "source": "https://www.pantaiaevents.com/",
+            "pages_checked": 1
+        },
+        "https://www.perraud-ussel.com/": {
+            "emails": [
+                "utilisateur@domaine.com",
+                "tristan.perraudussel@icloud.com"
+            ],
+            "source": "https://www.perraud-ussel.com/",
+            "pages_checked": 1
+        },
+        "https://www.petalesdeprovence.eu/": {
+            "emails": [
+                "info@petalesdeprovence.eu"
+            ],
+            "source": "https://www.petalesdeprovence.eu/",
+            "pages_checked": 1
+        },
+        "https://www.petite-fleur.fr/a-propos/": {
+            "emails": [
+                "corinne@petite-fleur.fr"
+            ],
+            "source": "https://www.petite-fleur.fr/a-propos/",
+            "pages_checked": 1
+        },
+        "https://www.phaedraevents.gr/press/": {
+            "emails": [
+                "info@phaedraevents.gr"
+            ],
+            "source": "https://www.phaedraevents.gr/contact/",
+            "pages_checked": 2
+        },
+        "https://www.photographybychloe.com/publications-photographe-mariage-reportage/": {
+            "emails": [
+                "contact@photographybychloe.com"
+            ],
+            "source": "https://www.photographybychloe.com/publications-photographe-mariage-reportage/",
+            "pages_checked": 1
+        },
+        "https://www.plumeparis.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.pondicheri-weddings.fr/": {
+            "emails": [
+                "pondicheriweddings@gmail.com"
+            ],
+            "source": "https://www.pondicheri-weddings.fr/contact/",
+            "pages_checked": 2
+        },
+        "https://www.pour-loccasion.fr/": {
+            "emails": [
+                "contact@pour-loccasion.fr"
+            ],
+            "source": "https://www.pour-loccasion.fr/",
+            "pages_checked": 1
+        },
+        "https://www.psbylamaleta.fr/papeterie-mariage": {
+            "emails": [
+                "contact@lamaleta.fr"
+            ],
+            "source": "https://www.psbylamaleta.fr/contact",
+            "pages_checked": 3
+        },
+        "https://www.receptionelles.com/": {
+            "emails": [
+                "contact@receptionelles.com",
+                "%20contact@receptionelles.com"
+            ],
+            "source": "https://www.receptionelles.com/",
+            "pages_checked": 1
+        },
+        "https://www.reveriesetbois.fr/": {
+            "emails": [
+                "contact@reveriesetbois.fr"
+            ],
+            "source": "https://www.reveriesetbois.fr/",
+            "pages_checked": 1
+        },
+        "https://www.riverfabric.com/": {
+            "emails": [
+                "riverfabric@mail.fr"
+            ],
+            "source": "https://www.riverfabric.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.rosa-eventdesign.com/": {
+            "emails": [
+                "tony@ruraweb.fr"
+            ],
+            "source": "https://www.rosa-eventdesign.com/",
+            "pages_checked": 1
+        },
+        "https://www.roudouic.com/partenaires.html": {
+            "emails": [
+                "contact@roudouic.com"
+            ],
+            "source": "https://www.roudouic.com/partenaires.html",
+            "pages_checked": 1
+        },
+        "https://www.samanthapastoor.com/": {
+            "emails": [
+                "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+                "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+                "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com"
+            ],
+            "source": "https://www.samanthapastoor.com/",
+            "pages_checked": 1
+        },
+        "https://www.sartistphotography.com/": {
+            "emails": [
+                "info@sartistphotography.com"
+            ],
+            "source": "https://www.sartistphotography.com/contact/",
+            "pages_checked": 2
+        },
+        "https://www.saveyourdate.fr/partenaires/": {
+            "emails": [
+                "cecile.demonvallier@saveyourdate.fr",
+                "hello@saveyourdate.fr"
+            ],
+            "source": "https://www.saveyourdate.fr/contact/",
+            "pages_checked": 3
+        },
+        "https://www.sbj-decoration.com/": {
+            "emails": [
+                "sbj.decoration@gmail.com"
+            ],
+            "source": "https://www.sbj-decoration.com/",
+            "pages_checked": 1
+        },
+        "https://www.scclemence.fr/mes-partenaires/": {
+            "emails": [
+                "sc.clemence@gmail.com",
+                "scclemence@orange.fr"
+            ],
+            "source": "https://www.scclemence.fr/mes-partenaires/",
+            "pages_checked": 1
+        },
+        "https://www.sjstudio.fr/": {
+            "emails": [],
+            "error": "Failed to connect to www.sjstudio.fr port 443 after 57 ms: Connection refused",
+            "pages_checked": 15
+        },
+        "https://www.souslesbranches.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 15
+        },
+        "https://www.studio-ap2c.com/liens/": {
+            "emails": [
+                "info@studio-ap2c.com"
+            ],
+            "source": "https://www.studio-ap2c.com/liens/",
+            "pages_checked": 1
+        },
+        "https://www.studiobalzac.fr/": {
+            "emails": [],
+            "source": null,
+            "pages_checked": 16
+        },
+        "https://www.sweet-life-events.com/a-propos/c-25.html": {
+            "emails": [
+                "sweetlifeevents.am@gmail.com"
+            ],
+            "source": "https://www.sweet-life-events.com/a-propos/c-25.html",
+            "pages_checked": 1
+        },
+        "https://www.ulrike-photographe.com/": {
+            "emails": [
+                "ulrikephotography@gmail.com"
+            ],
+            "source": "https://www.ulrike-photographe.com/contact-ulrike-photographe-a-vannes-seance-photo-morbihan/",
+            "pages_checked": 2
+        },
+        "https://www.unikday.fr/": {
+            "emails": [
+                "mathilde.legars@gmail.com"
+            ],
+            "source": "https://www.unikday.fr/contact-wedding-planner-event-planner/",
+            "pages_checked": 3
+        },
+        "https://www.unio-preparation.com/": {
+            "emails": [
+                "contact@unio-preparation.com"
+            ],
+            "source": "https://www.unio-preparation.com/",
+            "pages_checked": 1
+        },
+        "https://www.uniparis.com/pages/presse": {
+            "emails": [
+                "votre@adresse.email"
+            ],
+            "source": "https://www.uniparis.com/pages/presse",
+            "pages_checked": 1
+        },
+        "https://www.violette-berlingot.com/partenaires/": {
+            "emails": [
+                "violette@berlingot.fr"
+            ],
+            "source": "https://www.violette-berlingot.com/partenaires/",
+            "pages_checked": 1
+        },
+        "https://www.weddingsbymatilda.pt/": {
+            "emails": [
+                "letstalk@bymatilda.pt"
+            ],
+            "source": "https://www.weddingsbymatilda.pt/",
+            "pages_checked": 1
+        },
+        "https://www.wildinlovefestival.com/": {
+            "emails": [
+                "wildweddingfestival@gmail.com",
+                "605a7baede844d278b89dc95ae0a9123@sentry-next.wixpress.com",
+                "f36cc48fb72b4d298c835f2793cf3b84@sentry-next.wixpress.com",
+                "8c4075d5481d476e945486754f783364@sentry.io",
+                "dd0a55ccb8124b9c9d938e3acf41f8aa@sentry.wixpress.com",
+                "c183baa23371454f99f417f6616b724d@sentry.wixpress.com",
+                "9a65e97ebe8141fca0c4fd686f70996b@sentry.wixpress.com",
+                "ed436f5053144538958ad06a5005e99a@sentry.wixpress.com",
+                "460ff4620fa44cba8df530afde949785@sentry.wixpress.com",
+                "baf30a2b91654c5a840931f0137bed30@sentry.wixpress.com",
+                "0e6a29e4756740a8a63493e912ba2174@sentry.wixpress.com",
+                "88170cb0c9d64f94b5821ca7fd2d55a4@sentry-next.wixpress.com",
+                "79baaa8e09c746d2b7401643b99792e0@sentry.wixpress.com",
+                "98b21aa53d68482b8414e892d9af0e5f@sentry-next.wixpress.com",
+                "8eb368c655b84e029ed79ad7a5c1718e@sentry.wixpress.com",
+                "2062d0a4929b45348643784b5cb39c36@sentry.wixpress.com",
+                "78f7996315bc402f9dcb8a2f974b82d1@sentry.wixpress.com",
+                "271e9fa3230b4eec94b02bf95780f5f2@sentry.wixpress.com"
+            ],
+            "source": "https://www.wildinlovefestival.com/",
+            "pages_checked": 1
+        },
+        "https://www.yeswebloom.com/temoignages/": {
+            "emails": [
+                "c3sinteractive@gmail.com",
+                "anthony@yeswebloom.com",
+                "notifications@surecart.com",
+                "hello@yeswebloom.com"
+            ],
+            "source": "https://www.yeswebloom.com/temoignages/",
+            "pages_checked": 1
+        },
+        "https://yanngilquin.com/": {
+            "emails": [
+                "yann@ofskinandsouls.com"
+            ],
+            "source": "https://yanngilquin.com/",
+            "pages_checked": 1
+        },
+        "https://zeiphotographie.fr/": {
+            "emails": [
+                "zeiphotographie1@gmail.com"
+            ],
+            "source": "https://zeiphotographie.fr/",
+            "pages_checked": 1
+        },
+        "https://zenlove.io/aider-couples/": {
+            "emails": [
+                "hello@zenlove.io",
+                "help@petitbambou.com",
+                "hello@zenlove.com"
+            ],
+            "source": "https://zenlove.io/contact/cguv/",
+            "pages_checked": 3
+        }
+    }
+}
